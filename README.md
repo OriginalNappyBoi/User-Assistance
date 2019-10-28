@@ -1,2 +1,2 @@
-# User-Assitance
+# User-Assistance
 Final Project
