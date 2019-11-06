@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="adding_card_tsk">
+    <title>adding-card-tsk</title>
+    <shortdesc>Cards are the most basic unit of a board. You can drag cards from list-to-list, add
+        people to them. label them,  attach files, create task checklists, etc.</shortdesc>
+    <taskbody>
+        <context>Perform the following steps to add a card to a list:<p/></context>
+        <steps>
+            <step>
+                <cmd>Select + Add a card</cmd>
+            </step>
+            <step>
+                <cmd>Enter a title for the card</cmd>
+            </step>
+            <step>
+                <cmd>Select Add Card</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
