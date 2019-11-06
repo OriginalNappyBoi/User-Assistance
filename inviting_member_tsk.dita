@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="inviting_member_tsk">
+    <title>Inviting a member</title>
+    <shortdesc>Inviting members to your board allows multiple people to view and contribute to the
+        same board.</shortdesc>
+    <taskbody>
+        <context>
+            <p>To invite a member to your board, perform the following actions:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>In the top second-top menu bar, click <uicontrol>Invite</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Using the <wintitle>Invite To Board</wintitle> window, decide how you want to
+                    invite the person.</cmd>
+                <choices id="choices_y5y_w5k_qjb">
+                    <choice>In the <wintitle>Invite To Board</wintitle> window, in the
+                            <wintitle>Email address or name field</wintitle>, enter the email or
+                        name of the person you wish to invite.<ul id="ul_hkz_hvk_qjb">
+                            <li>Press the Enter key or click the person's name.</li>
+                            <li>Click <uicontrol>Send Invitation</uicontrol>.</li>
+                        </ul></choice>
+                    <choice>In the bottom right corner, click <uicontrol>Create Link</uicontrol>.
+                            <ul id="ul_qbf_z5k_qjb">
+                            <li>In the <wintitle>Invite with Link</wintitle> section, click
+                                    <uicontrol>Copy</uicontrol>.</li>
+                            <li>Distribute the link accordingly.</li>
+                        </ul><note>Anyone with this link can join the board as a
+                        member.</note></choice>
+                </choices>
+            </step>
+            <step>
+                <cmd><option/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
