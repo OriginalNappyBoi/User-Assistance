@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="creating-board-tsk">
+    <title>Creating a Board</title>
+    <shortdesc>Directions for creating a board in Trello</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>In the top right of the webpage you will see a plus sign, click it.</cmd>
+            </step>
+            <step>
+                <cmd>A menu will be brought up displaying three different actions, choose the create
+                    board option.</cmd>
+            </step>
+            <step>
+                <cmd>Now you will see a little text box saying "add board title", this is where you
+                    will input the name of the board you wish to create.</cmd>
+            </step>
+            <step>
+                <cmd>Next, you will see "No team" this is where you will add a team if you are part
+                    of a pre-existing team. You can click no team if you are not apart of any
+                    team.</cmd>
+            </step>
+            <step>
+                <cmd/>
+            </step>
+        </steps>
+    </taskbody>
+</task>
