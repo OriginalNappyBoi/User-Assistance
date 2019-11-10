@@ -25,7 +25,19 @@
                     team.</cmd>
             </step>
             <step>
-                <cmd/>
+                <cmd>Now on the right you will see some background images you can use, that is
+                    purely for cosmetic purposes only but feel free to browswe through them and pick
+                    your favorite.</cmd>
+            </step>
+            <step>
+                <cmd>Lastly you can select what kind of template you wish to follow, there are many
+                    to choose from that will give you the basic outline for whatever you need. For
+                    example you can get business, education,Engineering templates and much more
+                    depending on your needs. </cmd>
+            </step>
+            <step>
+                <cmd>After choosing to use a template or not now you can finally click create board
+                    and there you have it your board has been created.</cmd>
             </step>
         </steps>
     </taskbody>
