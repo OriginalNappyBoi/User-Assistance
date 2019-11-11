@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="downloading_desktop_application">
+    <title>Download the Desktop app for Trello</title>
+    <shortdesc>A step by step list of how to download the desktop app for trello. </shortdesc>
+    <taskbody>
+        <context>We should probably do both versions for this task, IE do a set of instrucitons for
+            PC and one for Mac users.<p>You will need this list of materials inorder to download the
+                PC version of Trello.</p><p> Materials:</p><p>1. Microsoft Store
+            account</p></context>
+        
+        <steps>
+            <step>
+                <cmd>Inorder to </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
