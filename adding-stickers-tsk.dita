@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_hht_3y5_rjb">
+    <title>Adding a sticker</title>
+    <shortdesc>Use stickers to add an extra touch to your cards.</shortdesc>
+    <taskbody>
+        <context>
+            <p>To add a sticker to a card, perform the following actions:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>In the top right corner of your board, click <uicontrol>Show
+                    Menu</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>In the <wintitle>Menu</wintitle> panel, click
+                    <uicontrol>Stickers</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>Click and drag a sticker to a card to place it.</cmd>
+            </step>
+            <step>
+                <cmd>To remove a sticker, hover over the sticker and click
+                        <uicontrol>Remove</uicontrol>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
