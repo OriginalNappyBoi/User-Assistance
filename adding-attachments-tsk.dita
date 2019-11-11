@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_th3_zdv_rjb">
+    <title>Adding an attachment</title>
+    <shortdesc>Add attachments to your cards to provide additional information or to keep
+        information from different sources together in one place.</shortdesc>
+    <taskbody>
+        <context>
+            <p>To add an attachment to a card, perform the following actions:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click the card to which you would like to add an attachment.</cmd>
+            </step>
+            <step>
+                <cmd>In the <wintitle>ADD TO CARD</wintitle> area, click
+                        <uicontrol>Attachment</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>In the <wintitle>Attach From...</wintitle> panel, select the location of the
+                    attachment you wish to add.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Attach</uicontrol>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
