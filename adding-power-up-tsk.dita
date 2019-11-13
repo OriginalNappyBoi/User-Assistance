@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_i5j_pqj_sjb">
+    <title>Adding a power-up</title>
+    <shortdesc>Use power-ups to  make the board more efficient and effective.</shortdesc>
+    <taskbody>
+        <context>
+            <p>To add a power-up to a card, perform the following actions:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Select a card you wish to add a power-up to.</cmd>
+            </step>
+            <step>
+                <cmd>In the right panel of the card, click <uicontrol>Get Power-Ups</uicontrol>.
+                </cmd>
+            </step>
+            <step>
+                <cmd>A new window will open with a variety of power-up options. Click
+                        <uicontrol>Add</uicontrol> on the power-up you wish to add.</cmd>
+            </step>
+            <step>
+                <cmd>The <uicontrol>Add</uicontrol> button will change into a
+                        <uicontrol>Settings</uicontrol> button to signal that you have successfully
+                    added your power-up. Click the <uicontrol>X</uicontrol> button on the top-right
+                    of the window to return to your card.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
