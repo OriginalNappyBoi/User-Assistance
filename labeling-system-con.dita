@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_isq_1lj_sjb">
+    <title>Labeling system</title>
+    <shortdesc> The labeling system is used to organize the cards on a board.</shortdesc>
+    <conbody>
+        <p>There are several color options included in the labeling system. These include: <ul
+                id="ul_l2j_mmj_sjb">
+                <li>green</li>
+                <li>yellow</li>
+                <li>orange</li>
+                <li>red</li>
+                <li>purple</li>
+                <li>blue</li>
+                <li>aqua</li>
+                <li>seafoam green</li>
+                <li>pink</li>
+                <li>navy blue</li>
+                <li>no color</li>
+            </ul> These may be used in a variety of organizational methods. A label may also have a
+            title that can be displayed, but a nameless label is acceptable.</p>
+    </conbody>
+</concept>
