@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="downloading_desktop_application">
+<<<<<<< HEAD:downloading_desktop_application.dita
     <title>Download the Desktop app for Trello-PC instructions</title>
     <shortdesc>A step by step list of how to download the desktop app for Trello for both PC and
         Mac. </shortdesc>
+=======
+    <title>Download the desktop app for Trello</title>
+    <shortdesc>A step by step list of how to download the desktop app for trello. </shortdesc>
+>>>>>>> c6f0ee95a707956c3c583edb36f7318c77cae43e:downloading-desktop-application-tsk.dita
     <taskbody>
         <context>This page includes both step-by-step instructions to download the desktop
             application for Trello on PC and Mac computers.<p> Materials for PC:<ul

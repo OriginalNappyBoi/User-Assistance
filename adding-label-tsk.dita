@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="adding_label_tsk">
-    <title>adding-label-tsk</title>
+    <title>Adding a label</title>
     <shortdesc>Trello labels can be used for sorting cards into categories and tracking which of
         those categories your team is spending time on.</shortdesc>
     <taskbody>

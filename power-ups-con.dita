@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_u11_wnj_sjb">
+    <title>Power-ups</title>
+    <shortdesc> Power-ups are optional integrated tools used to make the board more efficient and
+        effective.</shortdesc>
+    <conbody>
+        <p>Power-ups can be found through the menu on the right side of the webspace. Trello has a
+            myriad of power-ups across several categories:<ul id="ul_c1x_3pj_sjb">
+                <li>Analytics &amp; Reporting</li>
+                <li>Automation</li>
+                <li>Board Utilities</li>
+                <li>Communication &amp; Collaboration</li>
+                <li>Developer Tools</li>
+                <li>File Management</li>
+                <li>HR &amp; Operations</li>
+                <li>IT &amp; Project Management</li>
+                <li>Marketing &amp; Social Media</li>
+                <li>Product &amp; Design</li>
+                <li>Sales &amp; Support</li>
+            </ul></p>
+        <p> Some example power-ups are:<ul id="ul_pwg_y4j_sjb">
+                <li>Approvals for Trello</li>
+                <li>Google Drive</li>
+                <li>Connect GitHub + Trello with Unito</li>
+                <li>Daily Updates</li>
+                <li>Dropbox</li>
+                <li>Google Drive</li>
+            </ul></p>
+    </conbody>
+</concept>
