@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="creating-board-tsk">
+    <title>Creating a Board</title>
+    <shortdesc>Directions for creating a board in Trello</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>In the top right of the webpage you will see a plus sign, click it.</cmd>
+            </step>
+            <step>
+                <cmd>A menu will be brought up displaying three different actions, choose the create
+                    board option.</cmd>
+            </step>
+            <step>
+                <cmd>Now you will see a little text box saying "add board title", this is where you
+                    will input the name of the board you wish to create.</cmd>
+            </step>
+            <step>
+                <cmd>Next, you will see "No team" this is where you will add a team if you are part
+                    of a pre-existing team. You can click no team if you are not apart of any
+                    team.</cmd>
+            </step>
+            <step>
+                <cmd>Now on the right you will see some background images you can use, that is
+                    purely for cosmetic purposes only but feel free to browswe through them and pick
+                    your favorite.</cmd>
+            </step>
+            <step>
+                <cmd>Lastly you can select what kind of template you wish to follow, there are many
+                    to choose from that will give you the basic outline for whatever you need. For
+                    example you can get business, education,Engineering templates and much more
+                    depending on your needs. </cmd>
+            </step>
+            <step>
+                <cmd>After choosing to use a template or not now you can finally click create board
+                    and there you have it your board has been created.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

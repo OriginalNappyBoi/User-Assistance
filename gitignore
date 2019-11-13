@@ -1,0 +1,10 @@
+
+# Created by https://www.gitignore.io/api/oxygenxmleditor
+# Edit at https://www.gitignore.io/?templates=oxygenxmleditor
+
+### oXygenXMLEditor ###
+# oXygen XML Editor by SyncRO Soft SRL
+# https://www.oxygenxml.com
+/**/out/
+
+# End of https://www.gitignore.io/api/oxygenxmleditor

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="creating-account-tsk">
+    <title>creating  an account</title>
+    <shortdesc> Step by step directions on how to create a trello account.</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Open a web browser of  your choosing.</cmd>
+            </step>
+            <step>
+                <cmd>Next type into your search engine Trello and click on the website
+                    Trello.com.</cmd>
+            </step>
+            <step>
+                <cmd>Locate the sign up option and click on it.</cmd>
+            </step>
+            <step>
+                <cmd>You can choose to enter an email of your choosing or continue using
+                    Google.</cmd>
+            </step>
+            <step>
+                <cmd>Now fill in the information, enter your full and enter in a valid
+                    password.</cmd>
+            </step>
+            <step>
+                <cmd>Click sign up and it will ask you to verify your account with the email you
+                    provided, once you do that you are done.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

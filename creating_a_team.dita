@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="creating_a_team">
+    <title>creating a team</title>
+    <shortdesc>How to create a generic team within Trello</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Locate the plus sign in the top right corner of the webpage, click on it and
+                    three options will appear.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the create team option and another overlayed window will appear. You
+                    will now choose the team's name, a descripition for the team, then you can click
+                    continue.</cmd>
+            </step>
+            <step>
+                <cmd>Once you click continue you can add people to the team using their email
+                    associated with their account, you can add as many emails into the box as you
+                    need.</cmd>
+            </step>
+            <step>
+                <cmd>Once you have done this you have created a team.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="creating_a_checklist">
+    <title>creating a checklist</title>
+    <shortdesc>Steps to create a checklist</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Within your board in order to create a checklist you need to either create a
+                    card or using a pre-existing card. go ahead and either create a new card or
+                    choose a pre-existing card to add a checklist to now.</cmd>
+            </step>
+            <step>
+                <cmd>Once you have done ther you can select the card you wish to add the checklist
+                    to.</cmd>
+            </step>
+            <step>
+                <cmd>After selecting the card you will see some options on the right side of the
+                    card under the "add to card" subheading, go and locate "add checklist".</cmd>
+            </step>
+            <step>
+                <cmd>Click on add checklist, now you can name the checklist and even copy items from
+                    other places within your board, if you choose to not add anything then you can
+                    click add.</cmd>
+            </step>
+            <step>
+                <cmd>Now you should see your checklist under the card you selected, you can there
+                    add new items that need to be completed using the add an item button.</cmd>
+            </step>
+            <step>
+                <cmd>Add as many items as you need for your checklist, and as you complete them you
+                    can check them off as you do.</cmd>
+            </step>
+            <step>
+                <cmd>You have now created a checklist.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

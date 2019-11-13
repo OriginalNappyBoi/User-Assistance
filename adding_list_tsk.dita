@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="adding_list_tsk">
+    <title>adding-list-tsk</title>
+    <shortdesc> A list is a collection of cards that represent a specific topic.</shortdesc>
+    <taskbody>
+        <context> Perform the following steps to add a list to your board:<p/></context>
+        <steps>
+            <step>
+                <cmd>Select + Add a list</cmd>
+            </step>
+            <step>
+                <cmd>Enter a title for the list</cmd>
+            </step>
+            <step>
+                <cmd>Select Add List</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

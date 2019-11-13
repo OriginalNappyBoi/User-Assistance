@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="creating_a_business_team">
+    <title>creating a business team</title>
+    <shortdesc> steps on how to create a business team</shortdesc>
+    <taskbody>
+        <steps id="steps_qvq_mx5_rjb">
+            <step>
+                <cmd>Locate the plus sign in the top right corner of the webpage, click on it and
+                    three options will appear.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the create business team option and another overlayed window will
+                    appear. You will now choose the team's name, a descripition for the team, then
+                    you can click continue.</cmd>
+            </step>
+            <step>
+                <cmd>Once you click continue you can add people to the team using their email
+                    associated with their account, you can add as many emails into the box as you
+                    need.</cmd>
+            </step>
+            <step>
+                <cmd>Once you have done this you have created a business team.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_xsy_ybv_rjb">
+    <title>Adding a due date</title>
+    <shortdesc>Add due dates to your cards to ensure the tasks they represent get completed on
+        time.</shortdesc>
+    <taskbody>
+        <context>
+            <p>To add a due date to a card, perform the following actions:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click on the card to which you would like to add a due date.</cmd>
+            </step>
+            <step>
+                <cmd>In the <wintitle>ADD TO CARD</wintitle> area, click <uicontrol>Due
+                        Date</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>In the <wintitle>Change Due Date</wintitle> panel, enter the date and time of
+                    the due date.</cmd>
+            </step>
+            <step>
+                <cmd>In the <wintitle>Set Reminder</wintitle> dropdown, select when you would like
+                    to be reminded of the card's due date.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Save</uicontrol>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

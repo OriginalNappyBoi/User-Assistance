@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_oct_kdv_rjb">
+    <title>Assigning a label</title>
+    <shortdesc>Assign labels to your cards as another method of organizing them.</shortdesc>
+    <taskbody>
+        <context>
+            <p>To assign labels to your cards, perform the following actions:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Click the card to which you would like to assign a label.</cmd>
+            </step>
+            <step>
+                <cmd>In the <wintitle>ADD TO CARD</wintitle> area, click
+                        <uicontrol>Labels</uicontrol>.</cmd>
+            </step>
+            <step>
+                <cmd>In the <wintitle>Labels</wintitle> panel, click the label you would like to add
+                    to your card.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

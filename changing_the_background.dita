@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="changing_the_background">
+    <title>changing the background</title>
+    <shortdesc>How to change the background for a already created board</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Right under your account button, you can find a show menu button, click
+                    it</cmd>
+            </step>
+            <step>
+                <cmd>Once you have clicked it this will bring up the menu window for the board you
+                    are in. Find the change background option within the menu's window</cmd>
+            </step>
+            <step>
+                <cmd>After clicking that option you can select from a collection of photos trello
+                    has access for, using unsplash images, or you can select from collection of
+                    solid colors or you can upload your own custom image from your compter if you
+                    wish.</cmd>
+            </step>
+            <step>
+                <cmd>for example if you want to change the background of your board to a solid blue
+                    color. select the colors option, find the color blue and click it, after doing
+                    so you should see the update choice in the background of your board.</cmd>
+            </step>
+            <step>
+                <cmd>Now you are done you can change the background whenever you please.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
