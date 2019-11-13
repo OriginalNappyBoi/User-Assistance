@@ -1,22 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="downloading_desktop_application">
-<<<<<<< HEAD:downloading_desktop_application.dita
+<task id="download_desktop_apps_tsk">
     <title>Download the Desktop app for Trello-PC instructions</title>
-    <shortdesc>A step by step list of how to download the desktop app for Trello for both PC and
-        Mac. </shortdesc>
-=======
-    <title>Download the desktop app for Trello</title>
-    <shortdesc>A step by step list of how to download the desktop app for trello. </shortdesc>
->>>>>>> c6f0ee95a707956c3c583edb36f7318c77cae43e:downloading-desktop-application-tsk.dita
+    <shortdesc> A step-by-step set of instructions on how to download the desktop app for Trello on
+        both PC and Mac computers.</shortdesc>
     <taskbody>
         <context>This page includes both step-by-step instructions to download the desktop
             application for Trello on PC and Mac computers.<p> Materials for PC:<ul
-                    id="ul_ekm_vkj_sjb">
-                    <li>Working Laptop/ desktop</li>
-                    <li>Windows OS 10 or higher</li>
-                    <li>Microsoft store account</li>
-                </ul></p></context>
+                id="ul_ekm_vkj_sjb">
+                <li>Working Laptop/ desktop</li>
+                <li>Windows OS 10 or higher</li>
+                <li>Microsoft store account</li>
+            </ul></p></context>
         <steps>
             <step>
                 <cmd>Inorder to download the Trello desktop app for windows you must have a
@@ -48,13 +43,14 @@
             </step>
         </steps>
     </taskbody>
+    
     <task id="task_grs_dpj_sjb">
         <title>Download the Desktop app for Trello-MAC instructions</title>
         <abstract>How to download Trello on Mac<p>Materials for Mac:</p><ul id="ul_z4d_3pj_sjb">
-                <li>Working Mac laptop/ desktop</li>
-                <li>OS X 10.10.0 or later, 64-bit processor</li>
-                <li>Apple store account</li>
-            </ul></abstract>
+            <li>Working Mac laptop/ desktop</li>
+            <li>OS X 10.10.0 or later, 64-bit processor</li>
+            <li>Apple store account</li>
+        </ul></abstract>
         <taskbody>
             <steps id="steps_qnd_4pj_sjb">
                 <step>
