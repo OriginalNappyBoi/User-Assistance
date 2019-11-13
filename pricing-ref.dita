@@ -1,7 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="reference_yhw_gpj_sjb">
-    <title>Pricing</title>
-    <shortdesc></shortdesc>
-    <refbody> </refbody>
+    <title>Types of Trello Accounts</title>
+    <shortdesc>Be sure you sign up for the Trello account that is best for you.</shortdesc>
+    <refbody>
+        <section id="section_z1z_srj_sjb">
+            <title>Pricing</title>
+            <p>There are three different types of Trello accounts:<ul id="ul_jhr_wrj_sjb">
+                    <li>Free ($0 forever)</li>
+                    <li>Business Class ($9.99 per user per month anually)</li>
+                    <li>Enterprise ($20.83 per user per month for 20 users)</li>
+                </ul></p>
+        </section>
+        <section id="section_cwn_lrj_sjb">
+            <title>Standard Features</title>
+            <p>The table below shows the standard features associated with the different types of
+                Trello accounts.</p>
+            <table>
+                <tgroup cols="3">
+                    <thead>
+                        <row>
+                            <entry>Free</entry>
+                            <entry>Business Class</entry>
+                            <entry>Enterprise</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>Unlimited personal boards</entry>
+                            <entry>Unlimited personal boards</entry>
+                            <entry>Unlimited personal boards</entry>
+                        </row>
+                        <row>
+                            <entry>Unlimited cards</entry>
+                            <entry>Unlimited cards</entry>
+                            <entry>Unlimited cards</entry>
+                        </row>
+                        <row>
+                            <entry>Unlimited lists</entry>
+                            <entry>Unlimited lists</entry>
+                            <entry>Unlimited lists</entry>
+                        </row>
+                        <row>
+                            <entry>10MB per file attachment</entry>
+                            <entry>250MB per file attachment</entry>
+                            <entry>250MB per file attachment</entry>
+                        </row>
+                        <row>
+                            <entry>-</entry>
+                            <entry>Priority support</entry>
+                            <entry>Priority support</entry>
+                        </row>
+                        <row>
+                            <entry>-</entry>
+                            <entry>Observers</entry>
+                            <entry>Observers</entry>
+                        </row>
+                        <row>
+                            <entry>-</entry>
+                            <entry>Custom backgrounds and stickers</entry>
+                            <entry>Custom backgrounds and stickers</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <p>For more information about the feature differences in Trello accounts, see <xref
+                    href="https://trello.com/en-US/pricing" format="html" scope="external"/>.</p>
+        </section>
+    </refbody>
 </reference>
