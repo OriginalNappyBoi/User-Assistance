@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_kyq_rvt_tjb">
+    <title>Kanban method</title>
+    <shortdesc>The Kanban productivity method boosts quality and efficiency while improving the work
+        process.  Trello is a well-suited tool for the Kanban method.</shortdesc>
+    <conbody>
+        <p>The Kanban method, famously used by Toyota in the 1960s, us a Japanese methodology that
+            boosts quality and productivity while improving the work process. It has moved from car
+            factories to a myriad of business types as a productivity solution, from retail to
+            technology firms. Trello is a well-suited tool for the Kanban method.</p>
+        <p>In its simplest form, the Kanban method follows a workflow highlighted by three
+            categories: "To Do," "Doing," and "Done." Using this methodology through Trello enables
+            everyone to see the flow of work, reduces the chance of too much work being in process,
+            keeps the team consistent, and promotes trust.</p>
+        <p>The Kanban method can be represented by many different development processes, but an
+            example might be "To Do," "Development," "Code Review," "Testing," and "Done." <fig
+                id="fig_d2l_syt_tjb">
+                <title>Kanban Workflow Example</title>
+                <image href="images/kanban-example.PNG" id="image_e2l_syt_tjb" width="800">
+                    <alt>Example of a Trello board set up using the Kanban methodology.</alt>
+                </image>
+            </fig>Each list corresponds to a process point, and each card represents a task in the
+            workflow. As the task is completed, it will move from left to right through the board.
+            Labels can be used to assign each task with a priority level.</p>
+        <p>The Kanban methodology applies well with Trello because of its ability to create positive
+            change without reorganizing your current workflow. Experiment with the Kanban method on
+            your Trello to see how your efficiency and quality of work improves!</p>
+    </conbody>
+</concept>
