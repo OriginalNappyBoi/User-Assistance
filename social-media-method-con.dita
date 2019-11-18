@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_kyq_rvt_tjb">
-    <title>Kanban method</title>
-    <shortdesc>The Kanban productivity method boosts quality and efficiency while improving the work
-        process.  Trello is a well-suited tool for the Kanban method.</shortdesc>
+    <title>Social media method</title>
+    <shortdesc>The social media method can boost your business's social media quality while
+        improving the work process. Trello is a well-suited tool for the social media
+        method.</shortdesc>
     <conbody>
-        <p>The Kanban method, famously used by Toyota in the 1960s, is a Japanese methodology that
-            boosts quality and productivity while improving the work process. It has moved from car
-            factories to a myriad of business types as a productivity solution, from retail to
-            technology firms. Trello is a well-suited tool for the Kanban method.</p>
-        <p>In its simplest form, the Kanban method follows a workflow highlighted by three
-            categories: "To Do," "Doing," and "Done." Using this methodology through Trello enables
-            everyone to see the flow of work, reduces the chance of too much work being in process,
-            keeps the team consistent, and promotes trust.</p>
+        <p>Trello can be used to organize more than just the logistics of your business - it can be
+            used to organize its advertisement, too. This will help you keep track of which posts
+            have been uploaded on what platforms and ensure that your timing of posts is at the
+            right pace. Trello is a well-suited tool for the social media method.</p>
+        <p>In its simplest form, the social media method can be represented by the platforms your
+            business uses and the posts that need to be added to each. This ensures that no single
+            platform is getting too much attention and that your posts are consistent across the
+            platforms. Using this methodology through Trello also enables everyone to see the flow
+            of posts, reduces the chance of double-posting, and keeps the team cohesive.</p>
         <p>The Kanban method can be represented by many different development processes, but an
             example might be "To Do," "Development," "Code Review," "Testing," and "Done." <fig
                 id="fig_d2l_syt_tjb">

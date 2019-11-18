@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_kyq_rvt_tjb">
-    <title>Kanban method</title>
+    <title>Time method</title>
     <shortdesc>The Kanban productivity method boosts quality and efficiency while improving the work
         process.  Trello is a well-suited tool for the Kanban method.</shortdesc>
     <conbody>
-        <p>The Kanban method, famously used by Toyota in the 1960s, is a Japanese methodology that
+        <p>The Kanban method, famously used by Toyota in the 1960s, us a Japanese methodology that
             boosts quality and productivity while improving the work process. It has moved from car
             factories to a myriad of business types as a productivity solution, from retail to
             technology firms. Trello is a well-suited tool for the Kanban method.</p>
