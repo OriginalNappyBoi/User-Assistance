@@ -14,9 +14,8 @@
             <step>
                 <cmd>In the top right
                     <?oxy_insert_start author="dlittl36" timestamp="20191118T155233-0500"?>corner,
-                    click <image href="images/plus-icon.PNG" id="image_z4j_vvt_tjb">
-                        <alt>plus icon</alt>
-                    </image><?oxy_insert_end?><?oxy_delete author="dlittl36" timestamp="20191118T155413-0500" content="of the webpage you will see a plus sign, click it."?></cmd>
+                    click <image href="images/plus-icon.PNG" id="image_z4j_vvt_tjb"
+                    /><?oxy_insert_end?><?oxy_delete author="dlittl36" timestamp="20191118T155413-0500" content="of the webpage you will see a plus sign, click it."?></cmd>
             </step>
             <step>
                 <cmd><?oxy_delete author="dlittl36" timestamp="20191118T155445-0500" content="A menu will be brought up displaying three different actions, c"?><?oxy_insert_start author="dlittl36" timestamp="20191118T155448-0500"?>In
