@@ -2,14 +2,39 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="printing_exporting_tsk">
     <title>printing-exporting-tsk</title>
-    <shortdesc></shortdesc>
+    <shortdesc>Trello’s Print and Export feature is available to board creators and collaborators.
+        To access this feature, natigate to <uicontrol>Board Menu > More > Print and Export</uicontrol>. The Export feature
+        allows boards to be exported in JSON format, which uses text to store and exchange data. The
+        Print feature produces a printable version of your board including all lists and
+        cards.</shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>Use the Print feature to develop a hard copy of the layout of your board. Use the
+                Export feature to export the content of your board into other programs, or to backup
+                your data for safety.</p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Nagivate to the board that you would like to print or export.</cmd>
+            </step>
+            <step>
+                <cmd>On the top right of the board, click <uicontrol>Show
+                    Menu</uicontrol></cmd>
+            </step>
+            <step>
+                <cmd>Select <uicontrol>More</uicontrol> from the list of options.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Print and Export</uicontrol>. In the drop down menu,
+                    select <uicontrol>Print...</uicontrol> to print your board structure, or select <uicontrol>Export as JSON</uicontrol> to export your data.</cmd><example>
+                    <fig id="fig_d3t_wb5_tjb">
+                        <title>Print and Export in Trello</title>
+                        <image href="../../../Screen%20Shot%202019-11-18%20at%204.30.46%20PM.png"
+                            width="340" height="490" id="image_e3t_wb5_tjb">
+                            <alt>Screenshot of Trello's Print and Export feature</alt>
+                        </image>
+                    </fig>
+                </example>
             </step>
         </steps>
     </taskbody>
