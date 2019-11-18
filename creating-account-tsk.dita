@@ -9,27 +9,54 @@
         </context>
         <steps>
             <step>
-                <cmd>Open a web browser of  your choosing.</cmd>
+                <cmd>Open a web browser of your choosing. In this example I will be using Google
+                    Chrome, however any broswer will work just fine.</cmd>
             </step>
             <step>
                 <cmd>Next type into your search engine Trello and click on the website
                     Trello.com.</cmd>
             </step>
             <step>
-                <cmd>Locate the sign up option and click on it.</cmd>
+                <cmd>Locate the sign up
+                    option<?oxy_insert_start author="Smoothguy" timestamp="20191118T155808-0500"?>,
+                    it should be in the top right corner of the screen,<?oxy_insert_end?> and click
+                    on it.<?oxy_insert_start author="Smoothguy" timestamp="20191118T155830-0500"?>
+                    After clicking on sign up you will be brought to another screen where you will
+                    need to input some informaiton.<?oxy_insert_end?></cmd>
             </step>
             <step>
-                <cmd>You can choose to enter an email of your choosing or continue using
-                    Google.</cmd>
+                <cmd><?oxy_insert_start author="Smoothguy" timestamp="20191118T160008-0500"?>You
+                    will be given two choices,
+                    y<?oxy_insert_end?><?oxy_delete author="Smoothguy" timestamp="20191118T160020-0500" content="Y"?>ou
+                    can choose to enter an email of your choosing or
+                    continue<?oxy_insert_start author="Smoothguy" timestamp="20191118T160034-0500"?>
+                    by
+                    using<?oxy_insert_end?><?oxy_delete author="Smoothguy" timestamp="20191118T160033-0500" content=" using"?>
+                    Google.<?oxy_insert_start author="Smoothguy" timestamp="20191118T160336-0500"?>
+                    Either option is fine, for this example I will be creating an account completely
+                    from scratch and entering an e-mail. If you were to choose sign up using Google,
+                    this will connect a Google account of your choosing with Trello, which is needed
+                    for some but not necessary.<?oxy_insert_end?></cmd>
             </step>
             <step>
-                <cmd>Now fill in the information, enter your full and enter in a valid
-                    password.</cmd>
+                <cmd><?oxy_insert_start author="Smoothguy" timestamp="20191118T160109-0500"?>After
+                    clicking continue, you will
+                    n<?oxy_insert_end?><?oxy_delete author="Smoothguy" timestamp="20191118T160120-0500" content="N"?>ow
+                    <?oxy_insert_start author="Smoothguy" timestamp="20191118T160123-0500"?>be asked
+                    to <?oxy_insert_end?>fill in the information, enter your
+                    full<?oxy_insert_start author="Smoothguy" timestamp="20191118T160130-0500"?>
+                    name<?oxy_insert_end?> and enter in a valid
+                    password.<?oxy_insert_start author="Smoothguy" timestamp="20191118T160643-0500"?>
+                    The password must contain at least 8 characters for it to be
+                    valid.<?oxy_insert_end?></cmd>
             </step>
             <step>
                 <cmd>Click sign up and it will ask you to verify your account with the email you
-                    provided, once you do that you are done.</cmd>
+                    provided, once you do that you are
+                    done<?oxy_insert_start author="Smoothguy" timestamp="20191118T160150-0500"?> and
+                    you now have a Trello account<?oxy_insert_end?>.</cmd>
             </step>
         </steps>
     </taskbody>
 </task>
+<?oxy_options track_changes="on"?>

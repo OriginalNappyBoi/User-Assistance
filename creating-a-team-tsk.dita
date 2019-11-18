@@ -10,21 +10,53 @@
         <steps>
             <step>
                 <cmd>Locate the plus sign in the top right corner of the webpage, click on it and
-                    three options will appear.</cmd>
+                    three options will
+                    appear<?oxy_insert_start author="Smoothguy" timestamp="20191118T163022-0500"?>,
+                    in a small box. The options will say "create board", "create team" or "create
+                    business
+                    team"<?oxy_insert_end?>.<?oxy_insert_start author="Smoothguy" timestamp="20191118T163122-0500"?>
+                    This set of instructions will be covering how to create a team, so click the
+                    "create team" option.<?oxy_insert_end?></cmd>
             </step>
             <step>
-                <cmd>Click on the create team option and another overlayed window will appear. You
-                    will now choose the team's name, a descripition for the team, then you can click
+                <cmd><?oxy_insert_start author="Smoothguy" timestamp="20191118T161754-0500"?>Once
+                    you have selected the option to <?oxy_insert_end?><?oxy_delete author="Smoothguy" timestamp="20191118T161752-0500" content="Click"?>
+                    <?oxy_delete author="Smoothguy" timestamp="20191118T161807-0500" content="on the"?>
+                    <?oxy_insert_start author="Smoothguy" timestamp="20191118T161809-0500"?>"<?oxy_insert_end?>create
+                    team<?oxy_insert_start author="Smoothguy" timestamp="20191118T161813-0500"?>"<?oxy_insert_end?>
+                    option
+                    <?oxy_delete author="Smoothguy" timestamp="20191118T163225-0500" content="and"?>
+                    another overlayed window will appear. You will now choose the team's
+                    name<?oxy_insert_start author="Smoothguy" timestamp="20191118T161828-0500"?>,
+                    this can be the organization's name if you are working with one or the name of
+                    an interal team<?oxy_insert_end?>, a descripition for the
+                    team,<?oxy_insert_start author="Smoothguy" timestamp="20191118T161859-0500"?>
+                    the description can be used to descrip what the team will do, and orgainze
+                    important informaiton in that box as well,<?oxy_insert_end?> then you can click
                     continue.</cmd>
             </step>
             <step>
                 <cmd>Once you click continue you can add people to the team using their email
                     associated with their account, you can add as many emails into the box as you
-                    need.</cmd>
+                    need.<?oxy_insert_start author="Smoothguy" timestamp="20191118T162228-0500"?>
+                    You can also add a message attatched to the invitaion for the team. If you do
+                    not feel the need to add people just yet you can click the option "I'll do this
+                    later" if you choose. If you choose to not to invite people to the team, after
+                    clicking "I'll do this later", you will be brought to another screen where you
+                    can edit the team's options and other things. You will be brought to the same
+                    screen if you were to invite people to the team in the previous screen as
+                    well.<?oxy_insert_end?></cmd>
             </step>
             <step>
-                <cmd>Once you have done this you have created a team.</cmd>
+                <cmd><?oxy_insert_start author="Smoothguy" timestamp="20191118T162543-0500"?>After
+                    completing
+                    everything<?oxy_insert_end?><?oxy_delete author="Smoothguy" timestamp="20191118T162533-0500" content="Once"?>
+                    you have
+                    <?oxy_delete author="Smoothguy" timestamp="20191118T162557-0500" content="done this you have"?>
+                    created a team.<?oxy_insert_start author="Smoothguy" timestamp="20191118T163244-0500"?>
+                    <?oxy_insert_end?></cmd>
             </step>
         </steps>
     </taskbody>
 </task>
+<?oxy_options track_changes="on"?>
