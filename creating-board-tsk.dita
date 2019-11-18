@@ -26,30 +26,66 @@
                     />.<?oxy_insert_end?></cmd>
             </step>
             <step>
-                <cmd>Now you will see a little text box saying "add board title", this is where you
-                    will input the name of the board you wish to create.</cmd>
+                <cmd><?oxy_delete author="dlittl36" timestamp="20191118T155737-0500" content="Now you will see a little text box saying "?><?oxy_insert_start author="dlittl36" timestamp="20191118T155738-0500"?>In
+                    the pop-up window, in the <image href="images/add-board-title-field.PNG"
+                        id="image_nbv_vxt_tjb"/> field, enter a name for your
+                    board<?oxy_insert_end?><?oxy_delete author="dlittl36" timestamp="20191118T155822-0500" content="&quot;add board title&quot;, this is where you will input the name of the board you wish to create."?><?oxy_insert_start author="dlittl36" timestamp="20191118T155822-0500"?>.
+                    <?oxy_insert_end?></cmd>
             </step>
             <step>
-                <cmd>Next, you will see "No team" this is where you will add a team if you are part
-                    of a pre-existing team. You can click no team if you are not apart of any
-                    team.</cmd>
+                <cmd><?oxy_delete author="dlittl36" timestamp="20191118T160218-0500" content="Next, you will see"?><?oxy_insert_start author="dlittl36" timestamp="20191118T160218-0500"?>If
+                    you would like to add your board to one of your teams, click the <image
+                        href="images/no-team.PNG" id="image_inh_nxt_tjb"/> drop down box to select
+                    which team you would like your board to be part of. If you aren't part of any
+                    teams or don't want to share your board with a team, click <uicontrol>No
+                        team</uicontrol>.<?oxy_insert_end?><?oxy_delete author="dlittl36" timestamp="20191118T160504-0500" content=" &quot;No team&quot; this is where you will add a team if you are part of a pre-existing team. You can click no team if you are not apart of any team."?></cmd>
+            </step>
+            <?oxy_insert_start author="dlittl36" timestamp="20191118T160524-0500"?>
+            <step>
+                <cmd>In the <image href="images/private.PNG" id="image_nsx_qxt_tjb"/> drop down box,
+                    select your privacy settings for the board.</cmd>
+            </step>
+            <?oxy_insert_end?>
+            <step>
+                <cmd><?oxy_delete author="dlittl36" timestamp="20191118T161016-0500" content="Now o"?><?oxy_insert_start author="dlittl36" timestamp="20191118T161016-0500"?>O<?oxy_insert_end?>n
+                    the right
+                    <?oxy_insert_start author="dlittl36" timestamp="20191118T161023-0500"?>side of
+                    the pop up window, choose a background image for your board.
+                    <?oxy_insert_end?><?oxy_delete author="dlittl36" timestamp="20191118T161051-0500" content="you will see some background images you can use, that is purely for cosmetic purposes only but feel free to browswe through them and pick your favorite."?></cmd>
+                <?oxy_insert_start author="dlittl36" timestamp="20191118T161222-0500"?>
+                <info>
+                    <note>This is purely for cosmetic purposes only and can be changed later.</note>
+                </info>
+                <?oxy_insert_end?>
             </step>
             <step>
-                <cmd>Now on the right you will see some background images you can use, that is
-                    purely for cosmetic purposes only but feel free to browswe through them and pick
-                    your favorite.</cmd>
+                <cmd><?oxy_insert_start author="dlittl36" timestamp="20191118T161603-0500"?>If you
+                    would like to create your board using a template, click the <image
+                        href="images/start-with-template.PNG" id="image_hl3_ryt_tjb"/> button. This
+                    will show you the<?oxy_insert_end?><?oxy_delete author="dlittl36" timestamp="20191118T161640-0500" content="Lastly you can select what kind of template you wish to follow, there are "?><?oxy_insert_start author="dlittl36" timestamp="20191118T161644-0500"?>
+                    <?oxy_insert_end?>many
+                    <?oxy_insert_start author="dlittl36" timestamp="20191118T161648-0500"?>templates
+                    <?oxy_insert_end?>to choose from
+                    <?oxy_insert_start author="dlittl36" timestamp="20191118T161658-0500"?>in a
+                    variety of areas, including
+                    <?oxy_insert_end?><?oxy_delete author="dlittl36" timestamp="20191118T161709-0500" content="that will give you the basic outline for whatever you need. For example you can get "?>business,
+                    education,<?oxy_insert_start author="dlittl36" timestamp="20191118T161717-0500"?>
+                    e<?oxy_insert_end?><?oxy_delete author="dlittl36" timestamp="20191118T161718-0500" content="E"?>ngineering<?oxy_insert_start author="dlittl36" timestamp="20191118T161741-0500"?>,
+                    and
+                    others.<?oxy_insert_end?><?oxy_delete author="dlittl36" timestamp="20191118T161739-0500" content=" templates and much more depending on your needs. "?></cmd>
             </step>
             <step>
-                <cmd>Lastly you can select what kind of template you wish to follow, there are many
-                    to choose from that will give you the basic outline for whatever you need. For
-                    example you can get business, education,Engineering templates and much more
-                    depending on your needs. </cmd>
-            </step>
-            <step>
-                <cmd>After choosing to use a template or not now you can finally click create board
-                    and there you have it your board has been created.</cmd>
+                <cmd><?oxy_insert_start author="dlittl36" timestamp="20191118T161812-0500"?>When
+                    you're done setting up your board, click the <image
+                        href="images/create-board-button.PNG" id="image_hqg_bzt_tjb"/> button to
+                    create your
+                    board.<?oxy_insert_end?><?oxy_delete author="dlittl36" timestamp="20191118T161917-0500" content="After choosing to use a template or not now you can finally click create board and there you have it your board has been created."?></cmd>
             </step>
         </steps>
+        <?oxy_insert_start author="dlittl36" timestamp="20191118T162142-0500"?>
+        <result id="result_pyz_jzt_tjb"><image href="images/creating-board-result.PNG"
+                id="image_l4r_kzt_tjb"/></result>
+        <?oxy_insert_end?>
     </taskbody>
 </task>
 <?oxy_options track_changes="on"?>
