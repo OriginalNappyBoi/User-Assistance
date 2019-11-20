@@ -15,18 +15,17 @@
             platform is getting too much attention and that your posts are consistent across the
             platforms. Using this methodology through Trello also enables everyone to see the flow
             of posts, reduces the chance of double-posting, and keeps the team cohesive.</p>
-        <p>The Kanban method can be represented by many different development processes, but an
-            example might be "To Do," "Development," "Code Review," "Testing," and "Done." <fig
-                id="fig_d2l_syt_tjb">
+        <p>The social media method can be represented by many different lists, but an example might
+            be "To Create," "Twitter," "Facebook," and "Instagram." <fig id="fig_d2l_syt_tjb">
                 <title>Kanban Workflow Example</title>
-                <image href="images/kanban-example.PNG" id="image_e2l_syt_tjb" width="800">
+                <image href="images/social-media-example.PNG" id="image_e2l_syt_tjb" width="800">
                     <alt>Example of a Trello board set up using the Kanban methodology.</alt>
                 </image>
-            </fig>Each list corresponds to a process point, and each card represents a task in the
-            workflow. As the task is completed, it will move from left to right through the board.
-            Labels can be used to assign each task with a priority level.</p>
-        <p>The Kanban methodology applies well with Trello because of its ability to create positive
-            change without reorganizing your current workflow. Experiment with the Kanban method on
-            your Trello to see how your efficiency and quality of work improves!</p>
+            </fig>Each list corresponds to a key topic, and each card represents a post or task.
+            Once the post is uploaded, the card can be archived. Labels can be used to assign each
+            post with a priority level.</p>
+        <p>The social media methodology applies well with Trello because of its ability to create
+            consistent platform experiences for followers. Experiment with the social media method
+            on your Trello to see how your efficiency and quality of work improves!</p>
     </conbody>
 </concept>
