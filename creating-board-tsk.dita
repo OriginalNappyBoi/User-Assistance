@@ -7,6 +7,10 @@
         a board in Trello to start organizing the way you work.<?oxy_insert_end?></shortdesc>
     <taskbody>
         <context>
+            <?oxy_insert_start author="dlittl36" timestamp="20191120T163605-0500"?>
+            <p>Trello boards are how you organize your projects. Creating a new board allows you to
+                start a new project and get to work organizing what needs to do be done for it.</p>
+            <?oxy_insert_end?>
             <p><?oxy_insert_start author="dlittl36" timestamp="20191118T155217-0500"?>To create a
                 board, perform the following actions:<?oxy_insert_end?></p>
         </context>
