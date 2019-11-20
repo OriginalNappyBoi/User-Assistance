@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Smoothguy\Documents\GitHub\User-Assitance\temp\topic-html5?><?workdir-uri file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/temp/topic-html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" id="download_desktop_apps_tsk" xtrc="task:1;3:38" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">Download the Desktop app for Trello-PC instructions</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita"> A step-by-step set of instructions on how to download the desktop app for Trello on
+        both PC and Mac computers.</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrc="taskbody:1;7:15" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">
+        <context class="- topic/section task/context " xtrc="context:1;8:18" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">This page includes both step-by-step instructions to download the desktop
+            application for Trello on PC and Mac computers.<p class="- topic/p " xtrc="p:1;9:63" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita"> Materials for PC &amp; Hardware
+                    Requirements:<ul class="- topic/ul " id="ul_ekm_vkj_sjb" xtrc="ul:1;10:58" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">
+                    <li class="- topic/li " xtrc="li:1;11:25" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">Working Laptop/ desktop</li>
+                    <li class="- topic/li " xtrc="li:2;12:25" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">Windows OS 10 or higher</li>
+                    <li class="- topic/li " xtrc="li:3;13:25" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">Microsoft store account</li>
+                </ul></p></context>
+        <steps class="- topic/ol task/steps " xtrc="steps:1;15:16" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">
+            <step class="- topic/li task/step " xtrc="step:1;16:19" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:1;17:22" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">Inorder to download the Trello desktop app for windows you must have a
+                    microsoft store account. See <u class="+ topic/ph hi-d/u " xtrc="u:1;18:53" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">here</u> on how to create a microsoft store
+                    account</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:2;21:19" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:2;22:22" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">Once you have an account you can search for Trello or in a web browser of your
+                    choosing search for the  Trello desktop app.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:3;25:19" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:3;26:22" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">Find the version you need, if you are using PC download Windows/Pc version, for
+                    these instructions we will be following the windows parameters, once you have
+                    found the version you need click install</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:4;30:19" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:4;31:22" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">If you are downloading from within a web broswer you will now be prompted to
+                    sign into the microsoft store, once you sign into the microsoft store you will
+                    now be able to start downloading the application. If you are already in the
+                    microsofrt store it will begin downloading.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:5;36:19" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:5;37:22" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">After it is finished downloading, the appplicaion will run, click continue,
+                    then either select login or signup. if you already have a Trello account go
+                    ahead and login. If you do not have a Trello account proceed to make one by
+                    signing up. </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrc="step:6;42:19" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">
+                <cmd class="- topic/ph task/cmd " xtrc="cmd:6;43:22" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">Once you have done that you are now ready to use Trello as an application and
+                    no longer have to use it in a web browser.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+    
+    <task class="- topic/topic task/task " ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" id="task_grs_dpj_sjb" xtrc="task:2;49:33" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">
+        <title class="- topic/title " xtrc="title:2;50:16" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">Download the Desktop app for Trello-MAC instructions</title>
+        <abstract class="- topic/abstract " xtrc="abstract:1;51:19" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">How to download Trello on Mac<p class="- topic/p " xtrc="p:2;51:51" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">Materials for Mac &amp; Hardware
+                Requirments:</p><ul class="- topic/ul " id="ul_z4d_3pj_sjb" xtrc="ul:2;52:57" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">
+                <li class="- topic/li " xtrc="li:4;53:21" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">Working Mac laptop/ desktop</li>
+                <li class="- topic/li " xtrc="li:5;54:21" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">OS X 10.10.0 or later, 64-bit processor</li>
+                <li class="- topic/li " xtrc="li:6;55:21" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">Apple store account</li>
+            </ul></abstract>
+        <taskbody class="- topic/body task/taskbody " xtrc="taskbody:2;57:19" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">
+            <steps class="- topic/ol task/steps " id="steps_qnd_4pj_sjb" xtrc="steps:2;58:43" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">
+                <step class="- topic/li task/step " xtrc="step:7;59:23" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">
+                    <cmd class="- topic/ph task/cmd " xtrc="cmd:7;60:26" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">Inorder to download the Trello app on Mac you must first have a apple
+                        account, if you do not set one up now.</cmd>
+                </step>
+                <step class="- topic/li task/step " xtrc="step:8;63:23" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">
+                    <cmd class="- topic/ph task/cmd " xtrc="cmd:8;64:26" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">Once you have an account you can search for Trello in the apple store or in
+                        a web browser or your choosing search for the Trello desktop app.</cmd>
+                </step>
+                <step class="- topic/li task/step " xtrc="step:9;67:23" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">
+                    <cmd class="- topic/ph task/cmd " xtrc="cmd:9;68:26" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">Find the version you need, if you are using Mac download Mac/Apple version,
+                        for these instrucions we will be following Mac parameters.</cmd>
+                </step>
+                <step class="- topic/li task/step " xtrc="step:10;71:23" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">
+                    <cmd class="- topic/ph task/cmd " xtrc="cmd:10;72:26" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">If you are downloading from a web browser you will be prompted to sign in
+                        to your apple account now, once you have signed into the apple store you can
+                        continue to download the application. If you are already within the apple
+                        store you will begin downloading now.</cmd>
+                </step>
+                <step class="- topic/li task/step " xtrc="step:11;77:23" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">
+                    <cmd class="- topic/ph task/cmd " xtrc="cmd:11;78:26" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">After it is finished downloading, the appplicaion will run, click continue,
+                        then either select login or signup. if you already have a Trello account go
+                        ahead and login.</cmd>
+                </step>
+                <step class="- topic/li task/step " xtrc="step:12;82:23" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">
+                    <cmd class="- topic/ph task/cmd " xtrc="cmd:12;83:26" xtrf="file:/C:/Users/Smoothguy/Documents/GitHub/User-Assitance/download_desktop_apps_tsk.dita">Once you are finished you can now access Trello from the application
+                        instead of the web browser.</cmd>
+                </step>
+            </steps>
+        </taskbody>
+    </task>
+</task>

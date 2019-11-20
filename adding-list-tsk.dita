@@ -7,13 +7,41 @@
         <context> Perform the following steps to add a list to your board:<p/></context>
         <steps>
             <step>
-                <cmd>Select + Add a list</cmd>
+                <cmd>In the middle of the screen you have an option to add lists to your already
+                    created board. If you wish to add lists to your board, click the "add list"
+                    option on the screen. see(Figure 1). </cmd>
+                <info>
+                    <fig id="fig_h51_jm3_5jb">
+                        <title>Adding Lists</title>
+                        <image placement="break"
+                            href="../../../Desktop/User%20Assitance/AddingList.PNG" scale="50"
+                            align="center" id="image_i51_jm3_5jb"/>
+                    </fig>
+                </info>
             </step>
             <step>
-                <cmd>Enter a title for the list</cmd>
+                <cmd>After clicking this option you will need to enter a title for the list you want
+                    to add. Once you have added the tittle click add (Figure 2). </cmd>
+                <info>
+                    <fig id="fig_o5k_km3_5jb">
+                        <title>Naming the list</title>
+                        <image placement="break"
+                            href="../../../Desktop/User%20Assitance/NameList.PNG" scale="50"
+                            align="center" id="image_p5k_km3_5jb"/>
+                    </fig>
+                </info>
             </step>
             <step>
-                <cmd>Select Add List</cmd>
+                <cmd>You have now created a list within your board, and now you can add different
+                    cards, lists, and other things to it (Figure 3).</cmd>
+                <info>
+                    <fig id="fig_pnc_4m3_5jb">
+                        <title>Newly create list</title>
+                        <image placement="break"
+                            href="../../../Desktop/User%20Assitance/NewCreatedList.PNG" scale="50"
+                            align="center" id="image_qnc_4m3_5jb"/>
+                    </fig>
+                </info>
             </step>
         </steps>
     </taskbody>
