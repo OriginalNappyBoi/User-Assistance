@@ -2,23 +2,23 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_kyq_rvt_tjb">
     <title>Time method</title>
-    <shortdesc>The Kanban productivity method boosts quality and efficiency while improving the work
-        process.  Trello is a well-suited tool for the Kanban method.</shortdesc>
+    <shortdesc>The time method boosts efficiency while improving the work process and lessening
+        stress. Trello is a well-suited tool for the time method.</shortdesc>
     <conbody>
-        <p>The Kanban method, famously used by Toyota in the 1960s, us a Japanese methodology that
-            boosts quality and productivity while improving the work process. It has moved from car
-            factories to a myriad of business types as a productivity solution, from retail to
-            technology firms. Trello is a well-suited tool for the Kanban method.</p>
-        <p>In its simplest form, the Kanban method follows a workflow highlighted by three
-            categories: "To Do," "Doing," and "Done." Using this methodology through Trello enables
-            everyone to see the flow of work, reduces the chance of too much work being in process,
-            keeps the team consistent, and promotes trust.</p>
-        <p>The Kanban method can be represented by many different development processes, but an
-            example might be "To Do," "Development," "Code Review," "Testing," and "Done." <fig
+        <p>The time methodology boosts productivity while improving the work process and lessening
+            the stress it creates. Trello is a well-suited tool for the Kanban method.</p>
+        <p>In its simplest form, the time method is done by organizing your tasks into categories
+            that mark the time it takes to complete them. An example might be "Less than 10
+            Minutes," "Less than 30 Minutes," "Less than 1 Hours," and "An Hour or More." Using this
+            methodology through Trello enables everyone to see the time it will take to complete a
+            task, therefore reducing the chance of too much work being in progress and helping to
+            ensure that the quick tasks are completed.</p>
+        <p>The time method can be represented by many different processes, but another example might
+            be "Morning," "Early Afternoon," "Late Afternoon," "Evening," and "Night." <fig
                 id="fig_d2l_syt_tjb">
-                <title>Kanban Workflow Example</title>
-                <image href="images/kanban-example.PNG" id="image_e2l_syt_tjb" width="800">
-                    <alt>Example of a Trello board set up using the Kanban methodology.</alt>
+                <title>Time Method Example</title>
+                <image href="images/time-example.PNG" id="image_e2l_syt_tjb" width="800">
+                    <alt>Example of a Trello board set up using the time methodology.</alt>
                 </image>
             </fig>Each list corresponds to a process point, and each card represents a task in the
             workflow. As the task is completed, it will move from left to right through the board.
