@@ -10,11 +10,18 @@
         </context>
         <steps>
             <step>
-                <cmd>In the top second-top menu bar, click <uicontrol>Invite</uicontrol>.</cmd>
+                <cmd>At the top, the second-top menu bar, click
+                    <uicontrol>Invite</uicontrol>.<?oxy_insert_start author="Smoothguy" timestamp="20191118T163917-0500"?>
+                    You will find this on the same line as the name of the board you are currently
+                    in..<?oxy_insert_end?></cmd>
             </step>
             <step>
-                <cmd>Using the <wintitle>Invite To Board</wintitle> window, decide how you want to
-                    invite the person.</cmd>
+                <cmd><?oxy_insert_start author="Smoothguy" timestamp="20191118T164011-0500"?>Once
+                    you have clicked <uicontrol>Invite</uicontrol>,  a window will appear called the <?oxy_insert_end?><?oxy_delete author="Smoothguy" timestamp="20191118T164119-0500" content="Using the"?>
+                    <wintitle>Invite To
+                    Board</wintitle><?oxy_delete author="Smoothguy" timestamp="20191118T164134-0500" content=" window"?>,
+                    <?oxy_insert_start author="Smoothguy" timestamp="20191118T164140-0500"?>this is
+                    where you can <?oxy_insert_end?>decide how you want to invite the person.</cmd>
                 <choices id="choices_y5y_w5k_qjb">
                     <choice>In the <wintitle>Invite To Board</wintitle> window, in the
                             <wintitle>Email address or name field</wintitle>, enter the email or
@@ -37,3 +44,4 @@
         </steps>
     </taskbody>
 </task>
+<?oxy_options track_changes="on"?>
