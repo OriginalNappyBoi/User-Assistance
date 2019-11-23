@@ -26,7 +26,18 @@
             </step>
             <step>
                 <cmd>Click <uicontrol>Print and Export</uicontrol>. In the drop down menu,
-                    select <uicontrol>Print...</uicontrol> to print your board structure, or select <uicontrol>Export as JSON</uicontrol> to export your data.</cmd>
+                    select <uicontrol>Print...</uicontrol> to print your board structure, or select <uicontrol>Export as JSON</uicontrol> to export your data.
+                </cmd>
+                <info>
+                    <fig id="fig_k1j_fh2_vjb">
+                        <title>Trello's Print and export function from within Board Menu</title>
+                        <image href="../../../printingandexporting.png" scale="40"
+                            id="image_l1j_fh2_vjb">
+                            <alt>Screenshot of Trello's Print and Export function</alt>
+                        </image>
+                    </fig>
+                </info>
+                
             </step>
         </steps>
     </taskbody>

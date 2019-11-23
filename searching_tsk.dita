@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="searching_tsk">
-    <title>searching-tsk</title>
+    <title>Searching within boards</title>
+    <shortdesc> Trello's search function allows you to search within boards for cards, terms,
+        labels, members, or due dates. </shortdesc>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <context><p>The top navigation bar provides a search field where you can search for specific cards within
+                boards. Here, most recently created cards will appear first. You may also search
+                from within boards for cards, terms, labels, members, or due dates.</p></context>
         <steps>
             <step>
                 <cmd></cmd>
