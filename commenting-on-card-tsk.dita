@@ -4,16 +4,19 @@
     <title>Commenting on a card</title>
     <shortdesc>Leave comments on cards to communicate with other members of your board.</shortdesc>
     <taskbody>
-        <context>
-            <p>To comment on a card, perform the following actions:</p>
-        </context>
+        <context>Leave comments on cards to communicate with other members of your board. This can
+            be used to update the status of a project piece, discuss option possibilities between
+            members, and more.<p>To comment on a card, perform the following actions:</p></context>
         <steps>
             <step>
                 <cmd>Click on the card for which you would like to leave a comment.</cmd>
             </step>
             <step>
                 <cmd>In the <wintitle>Activity</wintitle> area, in the <wintitle>Write a
-                        comment...</wintitle> field, enter your comment.</cmd>
+                        comment...</wintitle> field, enter your comment.<image
+                        href="images/comment-example.png" width="500" id="image_emm_fvc_vjb">
+                        <alt>An example of a comment.</alt>
+                    </image></cmd>
                 <substeps id="substeps_ixt_1bv_rjb">
                     <substep>
                         <cmd>To receive notifications when the card is updated, check the
@@ -38,7 +41,8 @@
                 </substeps>
             </step>
             <step>
-                <cmd>Click <uicontrol>Save</uicontrol>.</cmd>
+                <cmd>Click <uicontrol>Save</uicontrol>. This will add the comment to the top of the
+                    activity list.</cmd>
             </step>
         </steps>
     </taskbody>
