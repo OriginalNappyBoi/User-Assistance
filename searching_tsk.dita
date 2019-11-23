@@ -2,15 +2,75 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="searching_tsk">
     <title>Searching within boards</title>
-    <shortdesc> Trello's search function allows you to search within boards for cards, terms,
-        labels, members, or due dates. </shortdesc>
+    <shortdesc> Trello's search function allows you to search within boards for cards and their
+        content, terms, labels, members, and significant dates. </shortdesc>
     <taskbody>
-        <context><p>The top navigation bar provides a search field where you can search for specific cards within
-                boards. Here, most recently created cards will appear first. You may also search
-                from within boards for cards, terms, labels, members, or due dates.</p></context>
+        <context><p>Trello's top navigation bar provides a search field where you can search for specific cards
+                within boards. The search function allows you to search within boards for cards and
+                their content, terms, labels, members, and significant dates. Here, most recently
+                created cards will appear first. </p></context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Locate the navigation bar at the top of the page. This bar is fixed in this
+                    position no matter where you are in Trello.</cmd>
+            </step>
+            <step>
+                <cmd>On the left side of the navigation bar, click the search icon. This will either
+                    appear as a search icon or a search field, depending on the width of your
+                    screen.</cmd>
+                <info>
+                    <fig id="fig_dvf_m42_vjb">
+                        <title>Search icon</title>
+                        <image href="../../../searchicon.png" width="76" height="76"
+                            id="image_evf_m42_vjb">
+                            <alt>Search icon</alt>
+                        </image>
+                    </fig>
+                    <fig id="fig_zbh_n42_vjb">
+                        <title>Search field</title>
+                        <image href="../../../searchfield.png" id="image_ach_n42_vjb">
+                            <alt>Search field</alt>
+                        </image>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Type in the card content you wan to search. Search for boards by name, or
+                    search within boards for cards and their content. Most recently created cards
+                    will appear first. Refine your search with the following operators: <ul>
+                        <li><b>@name</b> or <b>@member </b>- Returns cards assigned to a
+                            member.</li>
+                        <li><b>board:id</b> - Returns cards within a specific board.</li>
+                        <li><b>label:</b> or <b>#label</b> - returns cards with labels. Search
+                            labels by name or color.</li>
+                        <li><b>has:</b> - Returns cards with whichever quality is specified.
+                            has:descriptions returns cards with descriptions.
+                            <b>has:attachments</b>, <b>has:cover</b>, <b>has:member</b>, and
+                                <b>has:sticker </b>work in the same way. </li>
+                        <li><b>due:day</b> - Returns cards due within the next 24 hours.
+                                <b>due:week</b> and <b>due:month</b> work in the same way.</li>
+                        <li><b>due:overdue</b> - Returns overdue cards</li>
+                        <li><b>due:number</b> - Returns cards due within a specific day range.</li>
+                        <li><b>due:complete</b> or <b>due:incomplete</b> - Searches for due dates
+                            that are marked as complete or incomplete.</li>
+                        <li><b>created:day</b> - Returns cards created within the last 24 hours.
+                                <b>created:week</b> and <b>created:month </b>work in the same
+                            way.</li>
+                        <li><b>created:number</b> - Returns cards created within a specific day
+                            range.</li>
+                        <li><b>edited:day</b> - Returns cards edited within the last 24 hours.
+                                <b>edited:week</b> and <b>edited:month </b>work in the same
+                            way.</li>
+                        <li><b>edited:number</b> - Returns cards edited within a specific day
+                            range.</li>
+                        <li><b>description:</b>, <b>checklist:</b>, <b>comment:</b>,
+                                and <b>name:</b> - Returns cards with card descriptions, checklists,
+                            comments, or names.</li>
+                        <li><b>is:open</b> - Returns open cards</li>
+                        <li><b>is:archived</b> - Returns archived cards.</li>
+                        <li><b>is:starred</b> - Returns cards on starred boards only. </li>
+                    </ul>
+                </cmd>
             </step>
         </steps>
     </taskbody>
