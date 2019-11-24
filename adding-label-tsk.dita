@@ -7,11 +7,11 @@
         time<?oxy_insert_start author="dlit" timestamp="20191124T140705-0500"?>
         working<?oxy_insert_end?> on.</shortdesc>
     <taskbody>
-        <context>
-            <?oxy_delete author="dlit" timestamp="20191124T141732-0500" content="Assign a label to a card by completing the following steps:"?>
-            <p><?oxy_insert_start author="dlit" timestamp="20191124T141735-0500"?>To create a new
-                label, perform the following actions:<?oxy_insert_end?></p>
-        </context>
+        <context><?oxy_delete author="briannamcbride" timestamp="20191124T171727-0500" content="Assign a label to a card by completing the following steps:"?><?oxy_insert_start author="briannamcbride" timestamp="20191124T171719-0500"?>Sorting
+            cards into categories and tracking which of those categories your team is spending time
+            working on can be done efficiently using
+                labels.<?oxy_insert_end?><p><?oxy_insert_start author="dlit" timestamp="20191124T141735-0500"?>To
+                create a new label, perform the following actions:<?oxy_insert_end?></p></context>
         <steps>
             <step>
                 <cmd><?oxy_insert_start author="dlit" timestamp="20191124T140818-0500"?>Navigate to
