@@ -35,7 +35,7 @@
                 <info>
                     <fig id="fig_ejb_11l_vjb">
                         <title>Example of a card once it has been opened</title>
-                        <image href="card-opened.png" scale="30" id="image_fjb_11l_vjb">
+                        <image href="images/card-opened.png" scale="30" id="image_fjb_11l_vjb">
                             <alt>Example of a card once it has been opened</alt>
                         </image>
                     </fig>
