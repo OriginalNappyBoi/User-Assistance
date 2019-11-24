@@ -2,23 +2,43 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_oct_kdv_rjb">
     <title>Assigning a label</title>
-    <shortdesc>Assign labels to your cards as another method of organizing them.</shortdesc>
+    <shortdesc><?oxy_delete author="dlit" timestamp="20191124T142739-0500" content="Assign"?><?oxy_insert_start author="dlit" timestamp="20191124T142739-0500"?>ing<?oxy_insert_end?>
+        labels to <?oxy_delete author="dlit" timestamp="20191124T142744-0500" content="your"?> cards
+        <?oxy_insert_start author="dlit" timestamp="20191124T142717-0500"?>i<?oxy_insert_end?><?oxy_delete author="dlit" timestamp="20191124T142716-0500" content="a"?>s
+        another
+        <?oxy_delete author="dlit" timestamp="20191124T142722-0500" content="method of"?><?oxy_insert_start author="dlit" timestamp="20191124T142722-0500"?>tool
+        for<?oxy_insert_end?> organizing
+        <?oxy_delete author="dlit" timestamp="20191124T142731-0500" content="them"?><?oxy_insert_start author="dlit" timestamp="20191124T142731-0500"?>your
+        lists and cards<?oxy_insert_end?>.</shortdesc>
     <taskbody>
         <context>
-            <p>To assign labels to your cards, perform the following actions:</p>
+            <p>To assign <?oxy_insert_start author="dlit" timestamp="20191124T142806-0500"?>a <?oxy_insert_end?>label<?oxy_insert_start author="dlit" timestamp="20191124T142810-0500"?>
+                <?oxy_insert_end?><?oxy_delete author="dlit" timestamp="20191124T142809-0500" content="s "?>to
+                <?oxy_insert_start author="dlit" timestamp="20191124T142815-0500"?>one of
+                <?oxy_insert_end?>your cards, perform the following actions:</p>
         </context>
         <steps>
+            <?oxy_delete author="dlit" timestamp="20191124T142908-0500" content="&lt;step&gt;&lt;cmd&gt;Click the card to which you would like to assign a label.&lt;/cmd&gt;&lt;/step&gt;&lt;step&gt;&lt;cmd&gt;In the &lt;wintitle&gt;ADD TO CARD&lt;/wintitle&gt; area, click &lt;uicontrol&gt;Labels&lt;/uicontrol&gt;.&lt;/cmd&gt;&lt;/step&gt;&lt;step&gt;&lt;cmd&gt;In the &lt;wintitle&gt;Labels&lt;/wintitle&gt; panel, click the label you would like to add to your card.&lt;/cmd&gt;&lt;/step&gt;"?>
+            <?oxy_insert_start author="dlit" timestamp="20191124T142908-0500"?>
             <step>
-                <cmd>Click the card to which you would like to assign a label.</cmd>
+                <cmd>Navigate to the main screen of your Trello board. This is the screen where you
+                    can see all of your cards.</cmd>
             </step>
             <step>
-                <cmd>In the <wintitle>ADD TO CARD</wintitle> area, click
-                        <uicontrol>Labels</uicontrol>.</cmd>
+                <cmd>Click anywhere on a card that you would like to label. A window with all of
+                    that card's details will appear.</cmd>
             </step>
             <step>
-                <cmd>In the <wintitle>Labels</wintitle> panel, click the label you would like to add
-                    to your card.</cmd>
+                <cmd>In the <wintitle>ADD TO CARD</wintitle> section on the right side of the
+                    window, click <uicontrol>Labels</uicontrol>. The <wintitle>Labels</wintitle>
+                    window will appear.</cmd>
             </step>
+            <step>
+                <cmd>In the <wintitle>Labels</wintitle> window, click the name of the label you
+                    would like to assign to your card. The label will be added to your card.</cmd>
+            </step>
+            <?oxy_insert_end?>
         </steps>
     </taskbody>
 </task>
+<?oxy_options track_changes="on"?>

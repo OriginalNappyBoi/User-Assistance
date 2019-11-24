@@ -3,22 +3,60 @@
 <task id="adding_label_tsk">
     <title>Adding a label</title>
     <shortdesc>Trello labels can be used for sorting cards into categories and tracking which of
-        those categories your team is spending time on.</shortdesc>
+        those categories your team is spending
+        time<?oxy_insert_start author="dlit" timestamp="20191124T140705-0500"?>
+        working<?oxy_insert_end?> on.</shortdesc>
     <taskbody>
-        <context>Assign a label to a card by completing the following steps:<p/></context>
+        <context>
+            <?oxy_delete author="dlit" timestamp="20191124T141732-0500" content="Assign a label to a card by completing the following steps:"?>
+            <p><?oxy_insert_start author="dlit" timestamp="20191124T141735-0500"?>To create a new
+                label, perform the following actions:<?oxy_insert_end?></p>
+        </context>
         <steps>
             <step>
-                <cmd>Click on the card that you want to label.</cmd>
+                <cmd><?oxy_insert_start author="dlit" timestamp="20191124T140818-0500"?>Navigate to
+                    the main screen of your Trello board. This is the screen where you can see all
+                    of your
+                    cards.<?oxy_insert_end?><?oxy_delete author="dlit" timestamp="20191124T140846-0500" content="Click on the card that you want to label."?></cmd>
+            </step>
+            <?oxy_insert_start author="dlit" timestamp="20191124T140908-0500"?>
+            <step>
+                <cmd>Click anywhere on a card that you would like to label. A window with all of
+                    that card's details will appear.</cmd>
+            </step>
+            <?oxy_insert_end?>
+            <step>
+                <cmd><?oxy_insert_start author="dlit" timestamp="20191124T141114-0500"?>In the<?oxy_insert_end?><?oxy_delete author="dlit" timestamp="20191124T141239-0500" content="Under"?>
+                    <?oxy_insert_start author="dlit" timestamp="20191124T141123-0500"?><wintitle>ADD
+                        TO CARD</wintitle> section on the right side of the window,
+                    <?oxy_insert_end?><?oxy_delete author="dlit" timestamp="20191124T141153-0500" content="ADD TO CARD, "?>click
+                        <uicontrol>Labels</uicontrol><?oxy_insert_start author="dlit" timestamp="20191124T141203-0500"?>.
+                    The <wintitle>Labels</wintitle> window will appear.<?oxy_insert_end?></cmd>
             </step>
             <step>
-                <cmd>Under ADD TO CARD, click <uicontrol>Labels</uicontrol></cmd>
+                <cmd><?oxy_insert_start author="dlit" timestamp="20191124T141301-0500"?>In the
+                        <wintitle>Labels</wintitle> window, click<?oxy_insert_end?><?oxy_delete author="dlit" timestamp="20191124T141313-0500" content="Select"?>
+                    <uicontrol>Create A New
+                    Label</uicontrol><?oxy_insert_start author="dlit" timestamp="20191124T141432-0500"?>.
+                    The <wintitle>Create Label</wintitle> window will
+                    appear.<?oxy_insert_end?></cmd>
             </step>
             <step>
-                <cmd>Select <uicontrol>Create A New Label</uicontrol></cmd>
+                <cmd><?oxy_insert_start author="dlit" timestamp="20191124T141420-0500"?>In the
+                        <wintitle>Create Label</wintitle> window, in the <uicontrol>Name</uicontrol>
+                    field, enter a name for your
+                    label.<?oxy_insert_end?><?oxy_insert_start author="dlit" timestamp="20191124T141529-0500" type="split"?></cmd>
             </step>
             <step>
-                <cmd>Name and select a color for your label.</cmd>
+                <cmd><?oxy_insert_end?><?oxy_insert_start author="dlit" timestamp="20191124T141532-0500"?>Choose<?oxy_insert_end?><?oxy_delete author="dlit" timestamp="20191124T141539-0500" content="Name and select"?>
+                    a color for your label.</cmd>
             </step>
+            <?oxy_insert_start author="dlit" timestamp="20191124T141601-0500"?>
+            <step>
+                <cmd>Click <uicontrol>Create</uicontrol>.</cmd>
+            </step>
+            <?oxy_insert_end?>
         </steps>
     </taskbody>
 </task>
+<?oxy_options track_changes="on"?>
