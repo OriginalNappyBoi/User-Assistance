@@ -14,9 +14,10 @@
                 <info>
                     <fig id="fig_h51_jm3_5jb">
                         <title>Adding Lists</title>
-                        <image placement="break"
-                            href="../../../Desktop/User%20Assitance/AddingList.PNG" scale="50"
-                            align="center" id="image_i51_jm3_5jb"/>
+                        <p>
+                            <image placement="break" href="images/AddingList.PNG" scale="50"
+                                align="left" id="image_zjn_kzl_vjb"/>
+                        </p>
                     </fig>
                 </info>
             </step>
@@ -28,9 +29,8 @@
                 <info>
                     <fig id="fig_o5k_km3_5jb">
                         <title>Naming the list</title>
-                        <image placement="break"
-                            href="../../../Desktop/User%20Assitance/NameList.PNG" scale="50"
-                            align="center" id="image_p5k_km3_5jb"/>
+                        <image placement="break" href="images/NameList.PNG" scale="50" align="left"
+                            id="image_x1p_tzl_vjb"/>
                     </fig>
                 </info>
             </step>
@@ -43,9 +43,8 @@
                 <info>
                     <fig id="fig_pnc_4m3_5jb">
                         <title>Newly created list</title>
-                        <image placement="break"
-                            href="../../../Desktop/User%20Assitance/NewCreatedList.PNG" scale="50"
-                            align="center" id="image_qnc_4m3_5jb"/>
+                        <image placement="break" href="images/NewCreatedList.PNG" scale="50"
+                            align="left" id="image_fyy_vzl_vjb"/>
                     </fig>
                 </info>
             </step>

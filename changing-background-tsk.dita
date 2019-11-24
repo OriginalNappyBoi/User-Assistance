@@ -15,11 +15,8 @@
                 <info>
                     <fig id="fig_n1s_llf_vjb">
                         <title><i>Show Menu</i></title>
-                        <image placement="break"
-                            href="../../../Desktop/User%20Assitance/ShowMenu.PNG" scale="50"
-                            align="center" id="image_o1s_llf_vjb">
-                            <alt>Showing the menu button</alt>
-                        </image>
+                        <image placement="break" href="images/ShowMenu.PNG" scale="50" align="left"
+                            id="image_vlt_w1m_vjb"/>
                     </fig>
                 </info>
             </step>
@@ -38,10 +35,9 @@
                 <info>
                     <fig id="fig_rm5_5lf_vjb">
                         <title><i>Picking Type of Image</i></title>
-                        <image placement="break"
-                            href="../../../Desktop/User%20Assitance/PickingPhotoType.PNG" scale="50"
-                            align="center" id="image_sm5_5lf_vjb">
-                            <alt>Photo Type</alt>
+                        <image placement="break" href="images/PickingPhotoType.PNG" scale="50"
+                            align="left" id="image_ajh_bbm_vjb">
+                            <alt>Picking Photo Type</alt>
                         </image>
                     </fig>
                 </info>
@@ -54,10 +50,8 @@
                 <info>
                     <fig id="fig_epy_xlf_vjb">
                         <title><i>Blue Background on Board</i></title>
-                        <image placement="break" href="../../../Desktop/User%20Assitance/BlueBg.PNG"
-                            scale="25" align="center" id="image_fpy_xlf_vjb">
-                            <alt>Change to Blue Background</alt>
-                        </image>
+                        <image placement="break" href="images/BlueBg.PNG" scale="25" align="left"
+                            id="image_zds_2bm_vjb"/>
                     </fig>
                 </info>
             </step>
