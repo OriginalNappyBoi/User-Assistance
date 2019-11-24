@@ -21,18 +21,22 @@
                 <info>
                     <fig id="fig_dvf_m42_vjb">
                         <title>Search icon</title>
-                        <image href="../../../searchicon.png" width="76" height="76"
-                            id="image_evf_m42_vjb">
+                        <image href="images/searchicon.png" width="76" height="76"
+                            id="image_xrp_gkk_vjb">
                             <alt>Search icon</alt>
                         </image>
                     </fig>
-                    <fig id="fig_zbh_n42_vjb">
+                    <fig id="fig_twg_kkk_vjb">
                         <title>Search field</title>
-                        <image href="../../../searchfield.png" id="image_ach_n42_vjb">
+                        <image href="images/searchfield.png" width="374" height="76"
+                            id="image_uwg_kkk_vjb">
                             <alt>Search field</alt>
                         </image>
                     </fig>
                 </info>
+            </step>
+            <step>
+                <cmd>s</cmd>
             </step>
             <step>
                 <cmd>Type in the card content you wan to search. Search for boards by name, or
