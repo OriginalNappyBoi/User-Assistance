@@ -15,17 +15,24 @@
         <steps>
             <step>
                 <cmd>Inorder to download the Trello desktop app for windows you must have a
-                    microsoft store account. See <u>here</u> on how to create a microsoft store
-                    account.</cmd>
+                    microsoft store account. <image placement="break"
+                        href="../../../Desktop/User%20Assitance/MicrosoftStoreAccount.PNG"
+                        scale="50" align="center" id="image_h1g_bhf_vjb">
+                        <alt>Creating Microsoft Account</alt>
+                    </image></cmd>
             </step>
             <step>
                 <cmd>Once you have an account you can search for Trello or in a web browser of your
-                    choosing search for the  Trello desktop app (Figure 2). </cmd>
+                    choosing search for the Trello desktop app . </cmd>
             </step>
             <step>
                 <cmd>Find the version you need, if you are using PC download Windows/Pc version, for
                     these instructions we will be following the windows parameters, once you have
-                    found the version you need click install</cmd>
+                    found the version you need click install.<image placement="break"
+                        href="../../../Desktop/User%20Assitance/VersionSelection.PNG" scale="25"
+                        align="center" id="image_nzh_nhf_vjb">
+                        <alt>Selecting Microsoft version</alt>
+                    </image></cmd>
             </step>
             <step>
                 <cmd>If you are downloading from within a web broswer you will now be prompted to

@@ -12,7 +12,11 @@
         <steps id="steps_qnd_4pj_sjb">
             <step>
                 <cmd>Inorder to download the Trello app on Mac you must first have a apple account,
-                    if you do not set one up now.</cmd>
+                    if you do not set one up now.<image placement="break"
+                        href="../../../Desktop/User%20Assitance/AppleStoreAccount.PNG" scale="50"
+                        align="center" id="image_ocx_vhf_vjb">
+                        <alt>Apple Store Account</alt>
+                    </image></cmd>
             </step>
             <step>
                 <cmd>Once you have an account you can search for Trello in the apple store or in a
@@ -20,7 +24,10 @@
             </step>
             <step>
                 <cmd>Find the version you need, if you are using Mac download Mac/Apple version, for
-                    these instrucions we will be following Mac parameters.</cmd>
+                    these instrucions we will be following Mac parameters.<image placement="break"
+                        href="../../../Desktop/User%20Assitance/VersionSelection.PNG" scale="50"
+                        align="center" id="image_e3w_xhf_vjb" alt="Selectiong App Store Version"
+                    /></cmd>
             </step>
             <step>
                 <cmd>If you are downloading from a web browser you will be prompted to sign in to
