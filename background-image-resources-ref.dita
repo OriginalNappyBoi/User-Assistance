@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_jzp_xvm_xjb">
+    <title>Background Image Resources</title>
+    <shortdesc>A list of options for your board's background images.</shortdesc>
+    <refbody>
+        <section id="section_ztx_2wm_xjb">
+            <p>Though Trello's selection of potential background images is wide and varied, it can
+                be useful to insert your own custom background image. Here is a list of
+                copyright-free, high-quality images for your board background.</p>
+            <ul id="ul_sxw_kwm_xjb">
+                <li>Stocksnap.io - With new photos added every week from around the world, you can't
+                    go wrong with StockSnap. Images are highly categorized and searchable to enhance
+                    the user's experience, and photos can be downloaded at the click of a button.
+                    The website also has a "trending" page, and their front page has an infinite
+                    scroll feature for your photo-searching needs.</li>
+                <li>Freestocks.org - Categorized into seven categories - animals, city and
+                    architecture, fashion, food and drinks, nature, objects and technology, and
+                    people, it's easy to navigate FreeStocks. Users can also search the website
+                    through a more detailed tagging system for those looking for something specific.
+                    All photos are taken by a group of five photographers, so each image is
+                    unique.</li>
+                <li>Polayoutu.com - Created and maintained by a community of China-based
+                    photographers, Polayoutu features photos that have been voted on and uploaded on
+                    a weekly basis. Though their search feature is limited, the photos are of such a
+                    high quality that you will be impressed by anything you find.</li>
+                <li>Foodiesfeed.com - Food photographers from all around the world share their
+                    photos, creating a resource of awesome naturally looking food photos that are
+                    completely free to download. Boasting over 1,500 photos, Foodiesfeed also has a
+                    robust search feature.</li>
+            </ul>
+        </section>
+    </refbody>
+</reference>
