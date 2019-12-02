@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_chz_cym_xjb">
+    <title>Board Inspiration</title>
+    <shortdesc>A list of resources to spark ideas about your Trello's organization.</shortdesc>
+    <refbody>
+        <section id="section_f2m_2ym_xjb">
+            <p>It can be both a blessing and a curse that Trello can be used in so many different
+                ways. Users can be overwhelmed by their options, and this list has been created to
+                help direct them. This is a list of resources to spark ideas about your Trello's
+                organization.</p>
+            <ul id="ul_ey2_3ym_xjb">
+                <li><xref href="https://trello.com/templates" format="html" scope="external"/> -
+                    This is the main hub of inspiration for Trello. Hand-crafted by Trello experts,
+                    each board in their repository has been vetted for excellence in ideas and
+                    craftmanship. The options are separated into a myriad of categories, making it
+                    easy to navigate.</li>
+                <li><xref
+                        href="https://zapier.com/blog/how-to-use-trello/#:~:targetText=Trello%20is%20a%20terrific%20tool,isn&apos;t%20just%20for%20work.&amp;targetText=In%20fact%20Trello%20is%20for,with%20a%20group%20of%20people."
+                        format="html" scope="external"/> - This webpage provides twenty ideas on how
+                    to use Trello. From using the Time Method to the Social Media Method to recipe
+                    boards, this list covers plenty of options.</li>
+                <li><xref
+                        href="https://blog.trello.com/best-trello-ideas-for-achieving-goals-in-2018"
+                        format="html" scope="external"/> - This page, created by the experts at
+                    Trello, is focused on setting achieving goals. Their options range from personal
+                    goal tracking to weekly goal reviews.</li>
+                <li><xref
+                        href="https://medium.com/@maybevaibhav/best-35-trello-boards-for-you-to-see-and-get-inspired-6bf28b565616"
+                        format="html" scope="external"/> - Medium has picked thirty-five potential
+                    ways to organize your Trello board. Their options include boards to keep up with
+                    friends, starting a business, and product management.</li>
+            </ul>
+        </section>
+    </refbody>
+</reference>
