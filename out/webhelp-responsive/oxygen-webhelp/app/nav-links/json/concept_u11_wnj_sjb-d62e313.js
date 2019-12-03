@@ -1,1 +1,0 @@
-define({"topics" : [{"title":"Adding a power-up","shortdesc":"<p class=\"shortdesc\">Use power-ups to  make the board more efficient and effective.</p>","href":"adding-power-up-tsk.html","attributes": {"data-id":"task_i5j_pqj_sjb",},"menu": {"hasChildren":false,},"tocID":"task_i5j_pqj_sjb-d62e324","topics":[]}]});

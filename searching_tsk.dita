@@ -115,26 +115,6 @@
                         <choption><b>is:starred</b></choption>
                         <chdesc>Returns cards on starred boards only.</chdesc>
                     </chrow>
-                    <chrow>
-                        <choption/>
-                        <chdesc/>
-                    </chrow>
-                    <chrow>
-                        <choption/>
-                        <chdesc/>
-                    </chrow>
-                    <chrow>
-                        <choption/>
-                        <chdesc/>
-                    </chrow>
-                    <chrow>
-                        <choption/>
-                        <chdesc/>
-                    </chrow>
-                    <chrow>
-                        <choption/>
-                        <chdesc/>
-                    </chrow>
                 </choicetable>
             </step>
         </steps>
