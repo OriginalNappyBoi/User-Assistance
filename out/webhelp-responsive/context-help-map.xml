@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
+   <appContext helpID="introduction-to-trello" path="introduction-to-trello-con.html"/>
+   <appContext helpID="getting-started-con" path="getting-started-con.html"/>
    <appContext helpID="creating-account-tsk" path="creating-account-tsk.html"/>
    <appContext helpID="downloading-desktop-trello-mac"
                path="downloading-desktop-trello-mac.html"/>
@@ -12,6 +14,7 @@
    <appContext helpID="task_oct_kdv_rjb" path="assigning-label-tsk.html"/>
    <appContext helpID="searching_tsk" path="searching_tsk.html"/>
    <appContext helpID="task_hht_3y5_rjb" path="adding-stickers-tsk.html"/>
+   <appContext helpID="intro_to_cards" path="intro-to-cards.html"/>
    <appContext helpID="reference_ixl_t2w_5jb" path="markdown-syntax-ref.html"/>
    <appContext helpID="task_oct_kdv_rjb" path="assigning-label-tsk.html"/>
    <appContext helpID="adding_label_tsk" path="adding-label-tsk.html"/>

@@ -2,21 +2,21 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Trello</title>
-    <topichead navtitle="Using Trello" audience="businessowner employee"/>
-    <topichead navtitle="Getting started" audience="businessowner employee">
+    <topicref href="introduction-to-trello-con.dita" audience="businessowner employee"/>
+    <topicref href="getting-started-con.dita" audience="businessowner employee">
         <topicref href="creating-account-tsk.dita" audience="businessowner employee">
             <topicref href="pricing-ref.dita" audience="businessowner"/>
         </topicref>
         <topichead navtitle="Downloading desktop software" audience="businessowner employee">
             <topicref href="downloading-desktop-trello-mac.dita" audience="businessowner employee"/>
             <topicref href="downloading-desktop-trello-windows.dita"
-                audience="businessowner employee"/>
+                audience="businessowner employee" />
         </topichead>
         <topicref href="creating-board-tsk.dita" audience="businessowner"/>
         <topicref href="creating-a-team-tsk.dita" audience="businessowner"/>
         <topicref href="creating-a-business-team-tsk.dita" audience="businessowner"/>
         <topicref href="inviting-member-tsk.dita" audience="businessowner employee"/>
-    </topichead>
+    </topicref>
     <topichead navtitle="Using a board" audience="businessowner employee">
         <topicref href="adding-list-tsk.dita" audience="businessowner employee"/>
         <topicref href="adding-card-tsk.dita" audience="businessowner employee"/>
@@ -29,7 +29,7 @@
         <topicref href="searching_tsk.dita" audience="businessowner employee"/>
         <topicref href="adding-stickers-tsk.dita" audience="employee"/>
     </topichead>
-    <topichead navtitle="Using a card" audience="businessowner employee">
+    <topicref href="intro-to-cards.dita" audience="businessowner employee">
         <topicref href="markdown-syntax-ref.dita" audience="businessowner employee"/>
         <topicref href="assigning-label-tsk.dita" audience="businessowner employee">
             <topicref href="adding-label-tsk.dita" audience="businessowner employee"/>
@@ -42,7 +42,7 @@
         </topicref>
         <topicref href="printing_exporting_tsk.dita" audience="businessowner employee"/>
         <topicref href="commenting-on-card-tsk.dita" audience="businessowner employee"/>
-    </topichead>
+    </topicref>
     <topichead navtitle="Methods of organization" audience="businessowner">
         <topicref href="kanban-method-con.dita" audience="businessowner"/>
         <topicref href="time-method-con.dita" audience="businessowner"/>
