@@ -6,10 +6,10 @@
         information from different sources together in one place.</shortdesc>
     <taskbody>
         <context>Add attachments to your cards to provide additional information to the board
-            members or to keep information from different sources together in one place.
-            Attachments can be pulled from a variety of sources, including your computer, Trello,
-            Google Drive, Dropbox, and OneDrive.<p>To add an attachment to a card, perform the
-                following actions:</p></context>
+            members or to keep information from different sources together in one place. Attachments
+            can be pulled from a variety of sources, including your computer, Trello, Google Drive,
+            Dropbox, and OneDrive.<p>To add an attachment to a card, perform the following
+                actions:</p></context>
         <steps>
             <step>
                 <cmd>Click the card to which you would like to add an attachment. The card will open
