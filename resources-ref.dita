@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="resources-ref">
+    <title>Resources</title>
+    <shortdesc>Like what you've seen and want to learn more? Having trouble with something and are
+        looking for some help? You've come to the right place.</shortdesc>
+    <refbody>
+        <section id="section_t5c_hkz_xjb">
+            <p>The following list contains links to outside resources that might prove useful in
+                your search for more knowledge:</p>
+            <ul id="ul_rwh_mkz_xjb">
+                <li><xref href="https://trello.com/b/nPNSBZjB/trello-resources" format="html"
+                        scope="external">Trello Resource Board</xref></li>
+                <li><xref
+                        href="https://trello.com/c/OOA7aVvn/32-how-to-trello-getting-started-resources"
+                        format="html" scope="external">How to Trello: Getting Started
+                        Resources</xref></li>
+                <li><xref href="https://trello.com/b/Ui4A8cwF/trello-learning-resource"
+                        format="html" scope="external">Trello Learning Resource</xref></li>
+                <li><xref href="https://blog.trello.com/project-management-power-ups" format="html"
+                        scope="external">How To Become A Project Management Master With
+                        Trello</xref></li>
+                <li><xref href="https://blog.trello.com/trello-common-questions" format="html"
+                        scope="external">Trello Common Questions</xref></li>
+                <li><xref href="https://blog.trello.com/" format="html" scope="external">Trello
+                        Blog</xref></li>
+                <li><xref href="https://help.trello.com/" format="html" scope="external">Trello
+                        Help</xref></li>
+            </ul>
+        </section>
+    </refbody>
+</reference>
