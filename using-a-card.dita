@@ -6,13 +6,13 @@
         <p>In Trello, cards are the fundamental unit of a board. Cards are used within lists to
             organize tasks and ideas.</p>
         <p>Cards are the fundamental unit of a board. Cards are used within lists to organize tasks
-            and ideas. To add a card to a list, click <uicontrol>+ Add a card</uicontrol> if it is the first card on a
-            list, or <uicontrol>+ Add another card</uicontrol> if you are adding a card to an existing list. Click on an
-            existing card to customize it. There are many ways to customize a card. You can drag
-            cards across lists, add members to cards, label cards, attach files, create checklists,
-            etc. <fig id="fig_j4g_ytr_xjb">
+            and ideas. To add a card to a list, click <uicontrol>+ Add a card</uicontrol> if it is
+            the first card on a list, or <uicontrol>+ Add another card</uicontrol> if you are adding
+            a card to an existing list. Click on an existing card to customize it. There are many
+            ways to customize a card. You can drag cards across lists, add members to cards, label
+            cards, attach files, create checklists, etc. <fig id="fig_ffj_3qz_xjb">
                 <title>Result of clicking on a card</title>
-                <image href="images/trello-card.png" scale="30" id="image_k4g_ytr_xjb">
+                <image href="images/trello-card.png" scale="30" id="image_gfj_3qz_xjb">
                     <alt>Result of clicking on a card</alt>
                 </image>
             </fig></p>

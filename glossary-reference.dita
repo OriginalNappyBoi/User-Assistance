@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="glossary_reference">
+    <title>Trello Glossary</title>
+    <shortdesc></shortdesc>
+    <refbody> <table>
+        <tgroup cols="1">
+            <tbody>
+                <row>
+                    <entry><b>Board - </b>A board is a place to plan projects and organize tasks by
+                            using lists and cards.</entry>
+                </row> 
+                <row>
+                    <entry><b>Member - </b>A member is a person who is collaborating on a board as part of a team. You can view the board activity of any team member.</entry>
+                </row> 
+                <row>
+                    <entry><b>List - </b>A list is a collection of cards that represent a specific topic. Lists keep cards organized through the progression of a project.</entry>
+                </row> 
+                <row>
+                    <entry><b>Card - </b>A card is the fundamental unit of a board. Cards are used within lists to organize tasks and ideas.
+                    </entry>
+                </row> 
+                <row>
+                    <entry><b>Kanban - </b>The Kanban method is a productivity method that boosts quality and efficiency of work while improving the work process. The Kanban method follows a workflow highlighted by three categories: "To Do," "Doing," and "Done."</entry>
+                </row>
+                <row>
+                    <entry><b>Checklist - </b>A checklist is a feature provided within a card to allow users to keep track of how much of a task has been completed. Checklist progress is displayed at the bottom of a card, and the icon will turn green once the checklist is completed. </entry>
+                </row>
+                <row>
+                    <entry><b>Attachment - </b>An attachment is any content added to a card from a source outside of said card. A user can attach files from their computer, Trello, Google Drive, DropBox, Box, OneDrive, or attach a link by pasting it into attachments. Add attachments to your cards to provide additional information or to keep
+                        information from different sources together in one place.</entry>
+                </row>
+                <row>
+                    <entry><b>Power-Up - Power-ups are a range of optional integrated tools and features used to make a board morex efficient and effective.</b></entry>
+                </row>
+            </tbody>
+        </tgroup>
+    </table></refbody>
+</reference>
