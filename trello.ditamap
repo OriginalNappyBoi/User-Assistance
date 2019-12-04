@@ -17,31 +17,33 @@
         <topicref href="creating-a-business-team-tsk.dita" audience="businessowner"/>
         <topicref href="inviting-member-tsk.dita" audience="businessowner employee"/>
     </topicref>
-    <topichead navtitle="Using a board" audience="businessowner employee">
-        <topicref href="adding-list-tsk.dita" audience="businessowner employee"/>
-        <topicref href="adding-card-tsk.dita" audience="businessowner employee"/>
-        <topicref href="labeling-system-con.dita" audience="businessowner employee">
-            <topicref href="assigning-label-tsk.dita" audience="businessowner employee"/>
+    <topicref href="using-a-board.dita">
+        <topichead navtitle="Using a board" audience="businessowner employee">
+            <topicref href="adding-list-tsk.dita" audience="businessowner employee"/>
+            <topicref href="adding-card-tsk.dita" audience="businessowner employee"/>
+            <topicref href="labeling-system-con.dita" audience="businessowner employee">
+                <topicref href="assigning-label-tsk.dita" audience="businessowner employee"/>
+            </topicref>
+            <topicref href="changing-background-tsk.dita" audience="businessowner">
+                <topicref href="background-image-resources-ref.dita" audience="businessowner"/>
+            </topicref>
+            <topicref href="searching_tsk.dita" audience="businessowner employee"/>
+            <topicref href="adding-stickers-tsk.dita" audience="employee"/>
+        </topichead>
+        <topicref href="intro-to-cards.dita" audience="businessowner employee">
+            <topicref href="markdown-syntax-ref.dita" audience="businessowner employee"/>
+            <topicref href="assigning-label-tsk.dita" audience="businessowner employee">
+                <topicref href="adding-label-tsk.dita" audience="businessowner employee"/>
+            </topicref>
+            <topicref href="creating-a-checklist-tsk.dita" audience="businessowner employee"/>
+            <topicref href="adding-due-date-tsk.dita" audience="businessowner"/>
+            <topicref href="adding-attachments-tsk.dita" audience="businessowner employee"/>
+            <topicref href="power-ups-con.dita" audience="businessowner">
+                <topicref href="adding-power-up-tsk.dita" audience="businessowner"/>
+            </topicref>
+            <topicref href="printing_exporting_tsk.dita" audience="businessowner employee"/>
+            <topicref href="commenting-on-card-tsk.dita" audience="businessowner employee"/>
         </topicref>
-        <topicref href="changing-background-tsk.dita" audience="businessowner">
-            <topicref href="background-image-resources-ref.dita" audience="businessowner"/>
-        </topicref>
-        <topicref href="searching_tsk.dita" audience="businessowner employee"/>
-        <topicref href="adding-stickers-tsk.dita" audience="employee"/>
-    </topichead>
-    <topicref href="intro-to-cards.dita" audience="businessowner employee">
-        <topicref href="markdown-syntax-ref.dita" audience="businessowner employee"/>
-        <topicref href="assigning-label-tsk.dita" audience="businessowner employee">
-            <topicref href="adding-label-tsk.dita" audience="businessowner employee"/>
-        </topicref>
-        <topicref href="creating-a-checklist-tsk.dita" audience="businessowner employee"/>
-        <topicref href="adding-due-date-tsk.dita" audience="businessowner"/>
-        <topicref href="adding-attachments-tsk.dita" audience="businessowner employee"/>
-        <topicref href="power-ups-con.dita" audience="businessowner">
-            <topicref href="adding-power-up-tsk.dita" audience="businessowner"/>
-        </topicref>
-        <topicref href="printing_exporting_tsk.dita" audience="businessowner employee"/>
-        <topicref href="commenting-on-card-tsk.dita" audience="businessowner employee"/>
     </topicref>
     <topichead navtitle="Methods of organization" audience="businessowner">
         <topicref href="kanban-method-con.dita" audience="businessowner"/>
