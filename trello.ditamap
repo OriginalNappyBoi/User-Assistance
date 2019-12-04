@@ -17,7 +17,7 @@
         <topicref href="creating-a-business-team-tsk.dita" audience="businessowner"/>
         <topicref href="inviting-member-tsk.dita" audience="businessowner employee"/>
     </topicref>
-    <topicref href="using-a-board.dita">
+    <topicref href="using-a-board.dita" audience="businessowner employee">
         <topichead navtitle="Using a board" audience="businessowner employee">
             <topicref href="adding-list-tsk.dita" audience="businessowner employee"/>
             <topicref href="adding-card-tsk.dita" audience="businessowner employee"/>
@@ -45,9 +45,10 @@
             <topicref href="commenting-on-card-tsk.dita" audience="businessowner employee"/>
         </topicref>
     </topicref>
-    <topichead navtitle="Methods of organization" audience="businessowner">
+    <topicref href="methods-of-organization-con.dita">
         <topicref href="kanban-method-con.dita" audience="businessowner"/>
         <topicref href="time-method-con.dita" audience="businessowner"/>
         <topicref href="social-media-method-con.dita" audience="businessowner"/>
-    </topichead>
+    </topicref>
+    <topicref href="resources-ref.dita" audience="businessowner employee"/>
 </map>
