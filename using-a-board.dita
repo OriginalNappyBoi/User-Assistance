@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="using-a-board">
-    <title>Using a Board</title>
+    <title>Using a board</title>
     <shortdesc>An overview for how to use and edit boards </shortdesc>
     <conbody>
         <p>First boards in Trello's terms is just a list of litsts that are populated with cards, to
