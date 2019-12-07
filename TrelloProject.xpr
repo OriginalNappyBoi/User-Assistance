@@ -23,6 +23,21 @@
                                     </list>
                                 </field>
                             </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>trello.ditamap</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>trello (WebHelp Responsive)2</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
                         </scenarioAssociation-array>
                     </entry>
                     <entry>
