@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE glossgroup PUBLIC "-//OASIS//DTD DITA Glossary Group//EN" "glossgroup.dtd">
+<glossgroup id="glossgroup_dlh_nrb_zjb">
+    <title>Glossary</title>
+    <glossentry id="glossentry_mk2_srb_zjb">
+        <glossterm>Attachment</glossterm>
+        <glossdef>An attachment is any content added to a card from a source outside of said card. A
+            user can attach files from their computer, Trello, Google Drive, DropBox, Box, OneDrive,
+            or attach a link by pasting it into attachments. Add attachments to your cards to
+            provide additional information or to keep information from different sources together in
+            one place.</glossdef>
+    </glossentry>
+    <glossentry id="ddl">
+        <glossterm>Board</glossterm>
+        <glossdef>A board is a place to plan projects and organize tasks by using lists and
+            cards.</glossdef>
+    </glossentry>
+    <glossentry id="glossentry_smv_rrb_zjb">
+        <glossterm>Card</glossterm>
+        <glossdef>A card is the fundamental unit of a board. Cards are used within lists to organize
+            tasks and ideas.</glossdef>
+    </glossentry>
+    <glossentry id="glossentry_plb_srb_zjb">
+        <glossterm>Checklist</glossterm>
+        <glossdef>A checklist is a feature provided within a card to allow users to keep track of
+            how much of a task has been completed. Checklist progress is displayed at the bottom of
+            a card, and the icon will turn green once the checklist is completed. </glossdef>
+    </glossentry>
+    <glossentry id="glossentry_nhy_rrb_zjb">
+        <glossterm>Kanban</glossterm>
+        <glossdef>The Kanban method is a productivity method that boosts quality and efficiency of
+            work while improving the work process. The Kanban method follows a workflow highlighted
+            by three categories: "To Do," "Doing," and "Done."</glossdef>
+    </glossentry>
+    <glossentry id="glossentry_y4q_rrb_zjb">
+        <glossterm>List</glossterm>
+        <glossdef>A list is a collection of cards that represent a specific topic. Lists keep cards
+            organized through the progression of a project.</glossdef>
+    </glossentry>
+    <glossentry id="glossentry_oxq_prb_zjb">
+        <glossterm>Member</glossterm>
+        <glossdef>A member is a person who is collaborating on a board as part of a team. You can
+            view the board activity of any team member.</glossdef>
+    </glossentry>
+    <glossentry id="glossentry_ulj_srb_zjb">
+        <glossterm>Power-Up</glossterm>
+        <glossdef>Power-ups are a range of optional integrated tools and features used to make a
+            board morex efficient and effective.</glossdef>
+    </glossentry>
+</glossgroup>

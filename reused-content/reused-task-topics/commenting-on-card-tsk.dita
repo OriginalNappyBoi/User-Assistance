@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_inm_tz5_rjb">
+    <title>Commenting on a card</title>
+    <shortdesc>Leave comments on cards to communicate with other members of your board.</shortdesc>
+    <taskbody>
+        <context>Leave comments on cards to communicate with other members of your board. This can
+            be used to update the status of a project piece, discuss option possibilities between
+            members, and more.<p>To comment on a card, perform the following actions:</p></context>
+        <steps>
+            <step>
+                <cmd>Click on the card for which you would like to leave a comment.</cmd>
+            </step>
+            <step>
+                <cmd>In the <wintitle>Activity</wintitle> area, in the <wintitle>Write a
+                        comment...</wintitle> field, enter your comment.<image
+                        href="../../images/comment-example.png" width="500" id="image_emm_fvc_vjb">
+                        <alt>An example of a comment.</alt>
+                    </image></cmd>
+                <substeps id="substeps_ixt_1bv_rjb">
+                    <substep>
+                        <cmd>To receive notifications when the card is updated, check the
+                                <uicontrol>Watch</uicontrol> checkbox.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>To upload a file as part of your comment, click the <uicontrol>Add an
+                                attachment</uicontrol> icon.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>To tag another member of the board, click the <uicontrol>Mention a
+                                member</uicontrol> icon.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>To use emojis in your comment, click the <uicontrol>Add
+                                emoji</uicontrol> icon.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>To insert a link to another card or Trello board, click the
+                                <uicontrol>Add card</uicontrol> icon.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Save</uicontrol>. This will add the comment to the top of the
+                    activity list.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -2,53 +2,54 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Trello</title>
-    <topicref href="introduction-to-trello-con.dita" audience="businessowner employee"/>
-    <topicref href="getting-started-con.dita" audience="businessowner employee">
-        <topicref href="creating-account-tsk.dita" audience="businessowner employee">
-            <topicref href="pricing-ref.dita" audience="businessowner"/>
+    <topicref href="reused-content/reused-concept-topics/introduction-to-trello-con.dita" audience="businessowner employee"/>
+    <topicref href="reused-content/reused-concept-topics/getting-started-con.dita" audience="businessowner employee">
+        <topicref href="reused-content/reused-task-topics/creating-account-tsk.dita" audience="businessowner employee">
+            <topicref href="reference-topics/pricing-ref.dita" audience="businessowner"/>
         </topicref>
         <topichead navtitle="Downloading desktop software" audience="businessowner employee">
-            <topicref href="downloading-desktop-trello-mac.dita" audience="businessowner employee"/>
-            <topicref href="downloading-desktop-trello-windows.dita"
-                audience="businessowner employee" />
+            <topicref
+                href="reused-content/reused-task-topics/downloading-desktop-trello-mac-tsk.dita" audience="businessowner employee"/>
+            <topicref
+                href="reused-content/reused-task-topics/downloading-desktop-trello-windows-tsk.dita" audience="businessowner employee"
+            />
         </topichead>
-        <topicref href="creating-board-tsk.dita" audience="businessowner"/>
-        <topicref href="creating-a-team-tsk.dita" audience="businessowner"/>
-        <topicref href="creating-a-business-team-tsk.dita" audience="businessowner"/>
-        <topicref href="inviting-member-tsk.dita" audience="businessowner employee"/>
+        <topicref href="task-topics/creating-board-tsk.dita" audience="businessowner"/>
+        <topicref href="task-topics/creating-a-team-tsk.dita" audience="businessowner">
+            <topicref href="task-topics/creating-a-business-team-tsk.dita" audience="businessowner"/>
+        </topicref>
+        <topicref href="reused-content/reused-task-topics/inviting-member-tsk.dita" audience="businessowner employee"/>
     </topicref>
-    <topicref href="using-a-board.dita" audience="businessowner employee">
-        <topichead navtitle="Using a board" audience="businessowner employee">
-            <topicref href="adding-list-tsk.dita" audience="businessowner employee"/>
-            <topicref href="adding-card-tsk.dita" audience="businessowner employee"/>
-            <topicref href="labeling-system-con.dita" audience="businessowner employee">
-                <topicref href="assigning-label-tsk.dita" audience="businessowner employee"/>
-            </topicref>
-            <topicref href="changing-background-tsk.dita" audience="businessowner">
-                <topicref href="background-image-resources-ref.dita" audience="businessowner"/>
-            </topicref>
-            <topicref href="searching_tsk.dita" audience="businessowner employee"/>
-            <topicref href="adding-stickers-tsk.dita" audience="employee"/>
-        </topichead>
-        <topicref href="intro-to-cards.dita" audience="businessowner employee">
-            <topicref href="markdown-syntax-ref.dita" audience="businessowner employee"/>
-            <topicref href="assigning-label-tsk.dita" audience="businessowner employee">
-                <topicref href="adding-label-tsk.dita" audience="businessowner employee"/>
-            </topicref>
-            <topicref href="creating-a-checklist-tsk.dita" audience="businessowner employee"/>
-            <topicref href="adding-due-date-tsk.dita" audience="businessowner"/>
-            <topicref href="adding-attachments-tsk.dita" audience="businessowner employee"/>
-            <topicref href="power-ups-con.dita" audience="businessowner">
-                <topicref href="adding-power-up-tsk.dita" audience="businessowner"/>
-            </topicref>
-            <topicref href="printing_exporting_tsk.dita" audience="businessowner employee"/>
-            <topicref href="commenting-on-card-tsk.dita" audience="businessowner employee"/>
+    <topicref href="reused-content/reused-concept-topics/using-a-board-con.dita" audience="businessowner employee">
+        <topicref href="reused-content/reused-task-topics/adding-list-tsk.dita" audience="businessowner employee"/>
+        <topicref href="reused-content/reused-task-topics/adding-card-tsk.dita" audience="businessowner employee"/>
+        <topicref href="reused-content/reused-task-topics/assigning-label-tsk.dita" audience="businessowner employee">
+            <topicref href="reused-content/reused-concept-topics/labeling-system-con.dita" audience="businessowner employee"/>
+        </topicref>
+        <topicref href="task-topics/changing-background-tsk.dita" audience="businessowner">
+            <topicref href="reference-topics/background-image-resources-ref.dita" audience="businessowner"/>
+        </topicref>
+        <topicref href="reused-content/reused-task-topics/searching-tsk.dita" audience="businessowner employee"/>
+        <topicref href="task-topics/adding-stickers-tsk.dita" audience="employee"/>
+        <topicref href="reused-content/reused-task-topics/printing-exporting-tsk.dita" audience="businessowner employee"/>
+        <topicref href="reused-content/reused-task-topics/commenting-on-card-tsk.dita" audience="businessowner employee"/>
+    </topicref>
+    <topicref href="reused-content/reused-concept-topics/using-a-card-con.dita" audience="businessowner employee">
+        <topicref href="reused-content/reused-reference-topics/markdown-syntax-ref.dita" audience="businessowner employee"/>
+        <topicref href="reused-content/reused-task-topics/adding-label-tsk.dita" audience="businessowner employee"/>
+        <topicref href="reused-content/reused-task-topics/creating-a-checklist-tsk.dita" audience="businessowner employee"/>
+        <topicref href="task-topics/adding-due-date-tsk.dita" audience="businessowner"/>
+        <topicref href="reused-content/reused-task-topics/adding-attachments-tsk.dita" audience="businessowner employee"/>
+        <topicref href="task-topics/adding-power-up-tsk.dita" audience="businessowner">
+            <topicref href="concept-topics/power-ups-con.dita" audience="businessowner"/>
         </topicref>
     </topicref>
-    <topicref href="methods-of-organization-con.dita">
-        <topicref href="kanban-method-con.dita" audience="businessowner"/>
-        <topicref href="time-method-con.dita" audience="businessowner"/>
-        <topicref href="social-media-method-con.dita" audience="businessowner"/>
+    <topicref href="concept-topics/methods-of-organization-con.dita" audience="businessowner">
+        <topicref href="concept-topics/kanban-method-con.dita" audience="businessowner"/>
+        <topicref href="concept-topics/social-media-method-con.dita" audience="businessowner"/>
+        <topicref href="concept-topics/time-method-con.dita" audience="businessowner"/>
+        <topicref href="reference-topics/board-inspiration-ref.dita" audience="businessowner"/>
     </topicref>
-    <topicref href="resources-ref.dita" audience="businessowner employee"/>
+    <topicref href="reused-content/reused-reference-topics/glossary.dita" audience="businessowner employee"/>
+    <topicref href="reused-content/reused-reference-topics/resources-ref.dita" audience="businessowner employee"/>
 </map>

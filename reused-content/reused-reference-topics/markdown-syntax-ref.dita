@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_ixl_t2w_5jb">
+    <title>Markdown syntax for card descriptions</title>
+    <shortdesc>Markdown is a simple language used to format text. This can be used to modify your
+        description text and more.</shortdesc>
+    <refbody>
+        <section id="section_ppx_dfw_5jb">
+            <title>Syntax eligible for card descriptions, checklist items, and comments</title>
+            <p>
+                <ul id="ul_wrx_kfw_5jb">
+                    <li><b>Bold text</b> - Mark text in double asterisks, like **this**.</li>
+                    <li><b>Italic text</b> - Mark text in single asterisks, like *this*. You can
+                        also use underscores to get the same result, for example: _this_.</li>
+                    <li><b>Strikethrough text</b> - Cross out text by framing it with two tildes on
+                        each side, like ~~this~~.</li>
+                    <li><b>Inline code</b> - Include inline code by wrapping it in a backtick (`) at
+                        the beginning and end of the code.</li>
+                    <li><b>Links </b>- Create a functioning link by typing the link text in brackets
+                        with the URL in parentheses immediately afterward, like
+                        [this](http://www.trello.com).</li>
+                </ul>
+            </p>
+        </section>
+        <example><image href="../../images/syntax-example.png" width="200" id="image_hzr_bmw_5jb">
+                <alt>Examples of marked text.</alt>
+            </image></example>
+        <section id="section_f1c_dfw_5jb">
+            <title>Syntax eligible for only card descriptions and comments</title>
+            <p>
+                <ul id="ul_uvf_lfw_5jb">
+                    <li><b>Horizontal line</b> - A horizontal line spanning the entire description
+                        or comment may be added by creating a line with at least three hyphens.</li>
+                    <li><b>Code block </b>- Include a block of code by wrapping it in three
+                        backticks (```) at the beginning and end of the block. The triple backticks
+                        have to be on a separate line. Ensure you have an empty line before and
+                        after the code block.</li>
+                    <li><b>Indent text / Block quotes </b>- Indent text by including a “>” in front
+                        of each line of text that you would like to indent or quote.</li>
+                    <li><b>Bullet and numbered lists</b> - Preface a series of lines with hyphens or
+                        numbers to create a list. Lists will only be formatted if you leave a blank
+                        line before the list, therefore beginning a new paragraph. You can add a
+                        space before the bullet mark to create nested bullets.</li>
+                    <li><b>Headers</b> - Headers can be marked in several different ways. Text in
+                        #Single Hashes# will be interpreted like an &lt;h1> HTML tag, or a larger
+                        header. Text in ##Double Hashes## will be interpreted like an &lt;h2> HTML
+                        tag, or a smaller header. </li>
+                </ul>
+            </p>
+        </section>
+        <example><image href="../../images/syntax-example-2.png" width="220" id="image_b5b_dmw_5jb">
+                <alt>Examples of marked text.</alt>
+            </image></example>
+        <section id="section_xsn_dfw_5jb">
+            <title><b>Syntax eligible for only card descriptions</b></title>
+            <p>
+                <ul id="ul_qnj_lfw_5jb">
+                    <li><b>Embedded images</b> - Embed an image by putting the link text in brackets
+                        and the image URL or path in parentheses, following an exclamation mark,
+                        like: ![Alt text](/path/to/img.jpg).</li>
+                    <li><b>Escaping Markdown </b> - To use the markdown syntax literally, you can
+                        escape the formatting using a backslash '\' before the symbols, like:
+                            <codeph>\*literal asterisks\*</codeph>.</li>
+                </ul>
+            </p>
+        </section>
+    </refbody>
+</reference>

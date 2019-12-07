@@ -1,43 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
-   <appContext helpID="introduction-to-trello" path="introduction-to-trello-con.html"/>
-   <appContext helpID="getting-started-con" path="getting-started-con.html"/>
-   <appContext helpID="creating-account-tsk" path="creating-account-tsk.html"/>
-   <appContext helpID="reference_yhw_gpj_sjb" path="pricing-ref.html"/>
+   <appContext helpID="introduction-to-trello"
+               path="reused-content/reused-concept-topics/introduction-to-trello-con.html"/>
+   <appContext helpID="getting-started-con"
+               path="reused-content/reused-concept-topics/getting-started-con.html"/>
+   <appContext helpID="creating-account-tsk"
+               path="reused-content/reused-task-topics/creating-account-tsk.html"/>
+   <appContext helpID="reference_yhw_gpj_sjb" path="reference-topics/pricing-ref.html"/>
    <appContext helpID="downloading-desktop-trello-mac"
-               path="downloading-desktop-trello-mac.html"/>
+               path="reused-content/reused-task-topics/downloading-desktop-trello-mac-tsk.html"/>
    <appContext helpID="download_desktop_apps_tsk"
-               path="downloading-desktop-trello-windows.html"/>
-   <appContext helpID="creating-board-tsk" path="creating-board-tsk.html"/>
-   <appContext helpID="creating_a_team" path="creating-a-team-tsk.html"/>
+               path="reused-content/reused-task-topics/downloading-desktop-trello-windows-tsk.html"/>
+   <appContext helpID="creating-board-tsk" path="task-topics/creating-board-tsk.html"/>
+   <appContext helpID="creating_a_team" path="task-topics/creating-a-team-tsk.html"/>
    <appContext helpID="creating_a_business_team"
-               path="creating-a-business-team-tsk.html"/>
-   <appContext helpID="inviting_member_tsk" path="inviting-member-tsk.html"/>
-   <appContext helpID="using-a-board" path="using-a-board.html"/>
-   <appContext helpID="adding_list_tsk" path="adding-list-tsk.html"/>
-   <appContext helpID="adding_card_tsk" path="adding-card-tsk.html"/>
-   <appContext helpID="concept_isq_1lj_sjb" path="labeling-system-con.html"/>
-   <appContext helpID="task_oct_kdv_rjb" path="assigning-label-tsk.html"/>
-   <appContext helpID="changing_the_background" path="changing-background-tsk.html"/>
+               path="task-topics/creating-a-business-team-tsk.html"/>
+   <appContext helpID="inviting_member_tsk"
+               path="reused-content/reused-task-topics/inviting-member-tsk.html"/>
+   <appContext helpID="using-a-board"
+               path="reused-content/reused-concept-topics/using-a-board-con.html"/>
+   <appContext helpID="adding_list_tsk"
+               path="reused-content/reused-task-topics/adding-list-tsk.html"/>
+   <appContext helpID="adding_card_tsk"
+               path="reused-content/reused-task-topics/adding-card-tsk.html"/>
+   <appContext helpID="task_oct_kdv_rjb"
+               path="reused-content/reused-task-topics/assigning-label-tsk.html"/>
+   <appContext helpID="concept_isq_1lj_sjb"
+               path="reused-content/reused-concept-topics/labeling-system-con.html"/>
+   <appContext helpID="changing_the_background"
+               path="task-topics/changing-background-tsk.html"/>
    <appContext helpID="reference_jzp_xvm_xjb"
-               path="background-image-resources-ref.html"/>
-   <appContext helpID="searching_tsk" path="searching_tsk.html"/>
-   <appContext helpID="task_hht_3y5_rjb" path="adding-stickers-tsk.html"/>
-   <appContext helpID="intro_to_cards" path="intro-to-cards.html"/>
-   <appContext helpID="reference_ixl_t2w_5jb" path="markdown-syntax-ref.html"/>
-   <appContext helpID="task_oct_kdv_rjb" path="assigning-label-tsk.html"/>
-   <appContext helpID="adding_label_tsk" path="adding-label-tsk.html"/>
-   <appContext helpID="creating_a_checklist" path="creating-a-checklist-tsk.html"/>
-   <appContext helpID="task_xsy_ybv_rjb" path="adding-due-date-tsk.html"/>
-   <appContext helpID="task_th3_zdv_rjb" path="adding-attachments-tsk.html"/>
-   <appContext helpID="concept_u11_wnj_sjb" path="power-ups-con.html"/>
-   <appContext helpID="task_i5j_pqj_sjb" path="adding-power-up-tsk.html"/>
-   <appContext helpID="printing_exporting_tsk" path="printing_exporting_tsk.html"/>
-   <appContext helpID="task_inm_tz5_rjb" path="commenting-on-card-tsk.html"/>
+               path="reference-topics/background-image-resources-ref.html"/>
+   <appContext helpID="searching_tsk"
+               path="reused-content/reused-task-topics/searching-tsk.html"/>
+   <appContext helpID="task_hht_3y5_rjb" path="task-topics/adding-stickers-tsk.html"/>
+   <appContext helpID="printing_exporting_tsk"
+               path="reused-content/reused-task-topics/printing-exporting-tsk.html"/>
+   <appContext helpID="task_inm_tz5_rjb"
+               path="reused-content/reused-task-topics/commenting-on-card-tsk.html"/>
+   <appContext helpID="intro_to_cards"
+               path="reused-content/reused-concept-topics/using-a-card-con.html"/>
+   <appContext helpID="reference_ixl_t2w_5jb"
+               path="reused-content/reused-reference-topics/markdown-syntax-ref.html"/>
+   <appContext helpID="adding_label_tsk"
+               path="reused-content/reused-task-topics/adding-label-tsk.html"/>
+   <appContext helpID="creating_a_checklist"
+               path="reused-content/reused-task-topics/creating-a-checklist-tsk.html"/>
+   <appContext helpID="task_xsy_ybv_rjb" path="task-topics/adding-due-date-tsk.html"/>
+   <appContext helpID="task_th3_zdv_rjb"
+               path="reused-content/reused-task-topics/adding-attachments-tsk.html"/>
+   <appContext helpID="task_i5j_pqj_sjb" path="task-topics/adding-power-up-tsk.html"/>
+   <appContext helpID="concept_u11_wnj_sjb" path="concept-topics/power-ups-con.html"/>
    <appContext helpID="methods-of-organization-con"
-               path="methods-of-organization-con.html"/>
-   <appContext helpID="concept_kyq_rvt_tjb" path="kanban-method-con.html"/>
-   <appContext helpID="concept_kyq_rvt_tjb" path="time-method-con.html"/>
-   <appContext helpID="concept_kyq_rvt_tjb" path="social-media-method-con.html"/>
-   <appContext helpID="resources-ref" path="resources-ref.html"/>
+               path="concept-topics/methods-of-organization-con.html"/>
+   <appContext helpID="concept_kyq_rvt_tjb"
+               path="concept-topics/kanban-method-con.html"/>
+   <appContext helpID="concept_kyq_rvt_tjb"
+               path="concept-topics/social-media-method-con.html"/>
+   <appContext helpID="concept_kyq_rvt_tjb" path="concept-topics/time-method-con.html"/>
+   <appContext helpID="reference_chz_cym_xjb"
+               path="reference-topics/board-inspiration-ref.html"/>
+   <appContext helpID="glossgroup_dlh_nrb_zjb"
+               path="reused-content/reused-reference-topics/glossary.html"/>
+   <appContext helpID="resources-ref"
+               path="reused-content/reused-reference-topics/resources-ref.html"/>
 </map>

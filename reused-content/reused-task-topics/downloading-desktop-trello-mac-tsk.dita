@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="downloading-desktop-trello-mac">
+    <title>Downloading Desktop Trello app for Mac</title>
+    <abstract>How to download Trello on Mac<p>Materials for Mac &amp; Hardware Requirments:</p><ul
+            id="ul_z4d_3pj_sjb">
+            <li>Working Mac laptop/ desktop</li>
+            <li>OS X 10.10.0 or later, 64-bit processor</li>
+            <li>Apple store account</li>
+        </ul></abstract>
+    <taskbody>
+        <steps id="steps_qnd_4pj_sjb">
+            <step>
+                <cmd>Inorder to download the Trello app on Mac you must first have a apple account,
+                    if you do not set one up now (Figure 1).</cmd>
+                <info>
+                    <fig id="fig_kbh_lbm_vjb">
+                        <title><i>Apple Store Account</i></title>
+                        <image placement="break" href="../../images/AppleStoreAccount.PNG"
+                            scale="50" align="left" id="image_lbh_lbm_vjb">
+                            <alt>Apple Account</alt>
+                        </image>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Once you have an account you can search for Trello in the apple store or in a
+                    web browser or your choosing search for the Trello desktop app.</cmd>
+            </step>
+            <step>
+                <cmd>Find the version you need, if you are using Mac download Mac/Apple version, for
+                    these instrucions we will be following Mac parameters (Figure 2). </cmd>
+                <info>
+                    <fig id="fig_axb_qbm_vjb">
+                        <title><i>Version Selection</i></title>
+                        <image placement="break" href="../../images/VersionSelection.PNG" scale="50"
+                            align="left" id="image_bxb_qbm_vjb">
+                            <alt>Selecting the right version</alt>
+                        </image>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>If you are downloading from a web browser you will be prompted to sign in to
+                    your apple account now, once you have signed into the apple store you can
+                    continue to download the application. If you are already within the apple store
+                    you will begin downloading now.</cmd>
+            </step>
+            <step>
+                <cmd>After it is finished downloading, the appplicaion will run, click continue,
+                    then either select login or signup. if you already have a Trello account go
+                    ahead and login.</cmd>
+            </step>
+            <step>
+                <cmd>Once you are finished you can now access Trello from the application instead of
+                    the web browser.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

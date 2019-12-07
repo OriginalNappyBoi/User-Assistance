@@ -10,26 +10,11 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>using-a-card.dita</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>trello (WebHelp Responsive)1</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>DITAMAP</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
                                     <String>trello.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>trello (WebHelp Responsive)2</String>
+                                        <String>Trello - Overall</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -68,10 +53,10 @@
                                             <Boolean>false</Boolean>
                                         </field>
                                         <field name="useAppliedConditionSet">
-                                            <Boolean>true</Boolean>
+                                            <Boolean>false</Boolean>
                                         </field>
                                         <field name="appliedConditionSet">
-                                            <null/>
+                                            <String>Business Owner</String>
                                         </field>
                                         <field name="ditavalFilePath">
                                             <null/>
@@ -122,36 +107,6 @@
                                     <list>
                                         <ditaParameter>
                                             <field name="name">
-                                                <String>force-unique</String>
-                                            </field>
-                                            <field name="description">
-                                                <null/>
-                                            </field>
-                                            <field name="value">
-                                                <String>true</String>
-                                            </field>
-                                            <field name="defaultValue">
-                                                <String>false</String>
-                                            </field>
-                                            <field name="type">
-                                                <Integer>4</Integer>
-                                            </field>
-                                            <field name="possibleValues">
-                                                <String-array>
-                                                    <String>true</String>
-                                                    <String>false</String>
-                                                    <null/>
-                                                </String-array>
-                                            </field>
-                                            <field name="possibleValuesDescriptions">
-                                                <String-array>
-                                                    <String></String>
-                                                    <String></String>
-                                                </String-array>
-                                            </field>
-                                        </ditaParameter>
-                                        <ditaParameter>
-                                            <field name="name">
                                                 <String>args.xhtml.classattr</String>
                                             </field>
                                             <field name="description">
@@ -170,6 +125,36 @@
                                                 <String-array>
                                                     <String>yes</String>
                                                     <String>no</String>
+                                                    <null/>
+                                                </String-array>
+                                            </field>
+                                            <field name="possibleValuesDescriptions">
+                                                <String-array>
+                                                    <String></String>
+                                                    <String></String>
+                                                </String-array>
+                                            </field>
+                                        </ditaParameter>
+                                        <ditaParameter>
+                                            <field name="name">
+                                                <String>force-unique</String>
+                                            </field>
+                                            <field name="description">
+                                                <null/>
+                                            </field>
+                                            <field name="value">
+                                                <String>true</String>
+                                            </field>
+                                            <field name="defaultValue">
+                                                <String>false</String>
+                                            </field>
+                                            <field name="type">
+                                                <Integer>4</Integer>
+                                            </field>
+                                            <field name="possibleValues">
+                                                <String-array>
+                                                    <String>true</String>
+                                                    <String>false</String>
                                                     <null/>
                                                 </String-array>
                                             </field>
@@ -207,7 +192,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>trello (WebHelp Responsive)</String>
+                                    <String>Trello - Business Owner</String>
                                 </field>
                                 <field name="baseURL">
                                     <null/>
@@ -338,10 +323,10 @@
                                 <field name="publishingTemplateDataPO">
                                     <publishingTemplate>
                                         <field name="templateRoot">
-                                            <String>${configured.ditaot.dir}/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen-red</String>
+                                            <String>${configured.ditaot.dir}/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen</String>
                                         </field>
                                         <field name="descriptorRelativePath">
-                                            <String>oxygen-red-tree.opt</String>
+                                            <String>oxygen-tree.opt</String>
                                         </field>
                                         <field name="isCustomTemplate">
                                             <Boolean>false</Boolean>
@@ -449,7 +434,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>trello (WebHelp Responsive)1</String>
+                                    <String>Trello - Employee</String>
                                 </field>
                                 <field name="baseURL">
                                     <null/>
@@ -552,10 +537,10 @@
                                             <Boolean>false</Boolean>
                                         </field>
                                         <field name="useAppliedConditionSet">
-                                            <Boolean>false</Boolean>
+                                            <Boolean>true</Boolean>
                                         </field>
                                         <field name="appliedConditionSet">
-                                            <String>Business Owner</String>
+                                            <null/>
                                         </field>
                                         <field name="ditavalFilePath">
                                             <null/>
@@ -606,36 +591,6 @@
                                     <list>
                                         <ditaParameter>
                                             <field name="name">
-                                                <String>force-unique</String>
-                                            </field>
-                                            <field name="description">
-                                                <null/>
-                                            </field>
-                                            <field name="value">
-                                                <String>true</String>
-                                            </field>
-                                            <field name="defaultValue">
-                                                <String>false</String>
-                                            </field>
-                                            <field name="type">
-                                                <Integer>4</Integer>
-                                            </field>
-                                            <field name="possibleValues">
-                                                <String-array>
-                                                    <String>true</String>
-                                                    <String>false</String>
-                                                    <null/>
-                                                </String-array>
-                                            </field>
-                                            <field name="possibleValuesDescriptions">
-                                                <String-array>
-                                                    <String></String>
-                                                    <String></String>
-                                                </String-array>
-                                            </field>
-                                        </ditaParameter>
-                                        <ditaParameter>
-                                            <field name="name">
                                                 <String>args.xhtml.classattr</String>
                                             </field>
                                             <field name="description">
@@ -654,6 +609,36 @@
                                                 <String-array>
                                                     <String>yes</String>
                                                     <String>no</String>
+                                                    <null/>
+                                                </String-array>
+                                            </field>
+                                            <field name="possibleValuesDescriptions">
+                                                <String-array>
+                                                    <String></String>
+                                                    <String></String>
+                                                </String-array>
+                                            </field>
+                                        </ditaParameter>
+                                        <ditaParameter>
+                                            <field name="name">
+                                                <String>force-unique</String>
+                                            </field>
+                                            <field name="description">
+                                                <null/>
+                                            </field>
+                                            <field name="value">
+                                                <String>true</String>
+                                            </field>
+                                            <field name="defaultValue">
+                                                <String>false</String>
+                                            </field>
+                                            <field name="type">
+                                                <Integer>4</Integer>
+                                            </field>
+                                            <field name="possibleValues">
+                                                <String-array>
+                                                    <String>true</String>
+                                                    <String>false</String>
                                                     <null/>
                                                 </String-array>
                                             </field>
@@ -691,7 +676,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>trello (WebHelp Responsive)2</String>
+                                    <String>Trello - Overall</String>
                                 </field>
                                 <field name="baseURL">
                                     <null/>

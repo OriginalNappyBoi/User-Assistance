@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Power-ups","shortdesc":"<p class=\"shortdesc\"> Power-ups are optional integrated tools used to make the board more efficient and         effective.</p>","href":"concept-topics\/power-ups-con.html","attributes": {"data-id":"concept_u11_wnj_sjb",},"menu": {"hasChildren":false,},"tocID":"concept_u11_wnj_sjb-d62e362","topics":[]}]});

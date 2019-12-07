@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="printing_exporting_tsk">
+    <title>Printing and Exporting</title>
+    <shortdesc>Trello’s Print and Export feature is available to board creators and collaborators.
+        To access this feature, natigate to <uicontrol>Board Menu > More > Print and Export</uicontrol>. The Export feature
+        allows boards to be exported in JSON format, which uses text to store and exchange data. The
+        Print feature produces a printable version of your board including all lists and
+        cards.</shortdesc>
+    <taskbody>
+        <context>
+            <p>Use the Print feature to develop a hard copy of the layout of your board. Use the
+                Export feature to export the content of your board into other programs, or to backup
+                your data for safety.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Nagivate to the board that you would like to print or export.</cmd>
+            </step>
+            <step>
+                <cmd>On the top right of the board, click <uicontrol>Show
+                    Menu</uicontrol></cmd>
+            </step>
+            <step>
+                <cmd>Select <uicontrol>More</uicontrol> from the list of options.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Print and Export</uicontrol>. In the drop down menu,
+                    select <uicontrol>Print...</uicontrol> to print your board structure, or select <uicontrol>Export as JSON</uicontrol> to export your data.
+                </cmd>
+                <info>
+                    <fig id="fig_uzm_jdm_vjb">
+                        <title>Trello's Print and Export function from within Board Menu</title>
+                        <image href="../../images/printingandexporting.png" scale="50"
+                            id="image_vzm_jdm_vjb">
+                            <alt>Screenshot of Trello's Print and Export function</alt>
+                        </image>
+                    </fig>
+                </info>
+                
+            </step>
+        </steps>
+    </taskbody>
+</task>

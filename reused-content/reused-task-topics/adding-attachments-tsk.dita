@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_th3_zdv_rjb">
+    <title>Adding an attachment</title>
+    <shortdesc>Add attachments to your cards to provide additional information or to keep
+        information from different sources together in one place.</shortdesc>
+    <taskbody>
+        <context>Add attachments to your cards to provide additional information to the board
+            members or to keep information from different sources together in one place. Attachments
+            can be pulled from a variety of sources, including your computer, Trello, Google Drive,
+            Dropbox, and OneDrive.<p>To add an attachment to a card, perform the following
+                actions:</p></context>
+        <steps>
+            <step>
+                <cmd>Click the card to which you would like to add an attachment. The card will open
+                    in full size on your screen. <image href="../../images/card-example.PNG"
+                        width="200" id="image_djw_2m3_5jb" alt="A card preview in a board."/></cmd>
+            </step>
+            <step>
+                <cmd>In the <wintitle>ADD TO CARD</wintitle> area, click
+                        <uicontrol>Attachment</uicontrol>. This will open a smaller panel below
+                    where you clicked with your attachment options. <image placement="break"
+                        href="../../images/attachment-popup.PNG" width="200" id="image_wnd_km3_5jb"
+                        alt="The Attach From... panel and its attachment options."/></cmd>
+            </step>
+            <step>
+                <cmd>In the <wintitle>Attach From...</wintitle> panel, select the source of the
+                    attachment you wish to add. A new window will pop up, its layout depending on
+                    what option you select. Locate your file and attach it.</cmd>
+            </step>
+            <step>
+                <cmd>Click <uicontrol>Attach</uicontrol>. Your attachment will now show in the card,
+                    underneath the card's description and above the card's activity. An attachment
+                    icon will also show on the smaller preview of the card. <image placement="break"
+                        href="../../images/attachment-successful.PNG" width="400"
+                        id="image_ljd_wm3_5jb" alt="A successfully attached file on a card."/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

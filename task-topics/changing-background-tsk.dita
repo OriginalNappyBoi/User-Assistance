@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="changing_the_background">
+    <title>Changing the background</title>
+    <shortdesc>How to change the background for a already created board</shortdesc>
+    <taskbody>
+        <context> Being able to change the background of your board can help with visual
+            oranization, changing the background to something related to what the board is about is
+            benefical to all those currently in the board.<p/></context>
+        <steps>
+            <step>
+                <cmd>Right under your account button, you can find a show menu button, This will be
+                    found in the upper right hand corner of the screen. click it to open up another
+                    window for more options (Figure 1). </cmd>
+                <info>
+                    <fig id="fig_n1s_llf_vjb">
+                        <title><i>Show Menu</i></title>
+                        <image placement="break" href="../images/ShowMenu.PNG" scale="50"
+                            align="left" id="image_vlt_w1m_vjb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Once you have clicked it, this will bring up the menu window for the board you
+                    are in. Find the change background option within the menu's window. This should
+                    be the second option within this window.</cmd>
+            </step>
+            <step>
+                <cmd>After clicking that option you can select from a collection of photos trello
+                    has access for using unsplash images, unsplash images is a copyright free
+                    website that allows you to search for pictures that you can use without the
+                    worry of paying for the rights to use them. You can even select from a
+                    collection of solid colors or you can upload your own custom image from your
+                    compter if you wish (Figure 2).</cmd>
+                <info>
+                    <fig id="fig_rm5_5lf_vjb">
+                        <title><i>Picking Type of Image</i></title>
+                        <image placement="break" href="../images/PickingPhotoType.PNG" scale="50"
+                            align="left" id="image_ajh_bbm_vjb">
+                            <alt>Picking Photo Type</alt>
+                        </image>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>for example if you want to change the background of your board to a solid blue
+                    color. select the colors option, find the color blue and click it, after doing
+                    so you should see the update choice in the background of your board (Figure
+                    3).</cmd>
+                <info>
+                    <fig id="fig_epy_xlf_vjb">
+                        <title><i>Blue Background on Board</i></title>
+                        <image placement="break" href="../images/BlueBg.PNG" scale="25" align="left"
+                            id="image_zds_2bm_vjb"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Now you are done you can change the background whenever you please.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

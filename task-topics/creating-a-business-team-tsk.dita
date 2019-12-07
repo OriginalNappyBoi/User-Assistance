@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="creating_a_business_team">
+    <title>Creating a business team</title>
+    <shortdesc><?oxy_insert_start author="dlittl36" timestamp="20191118T162720-0500"?>Create a
+        business team in Trello Business Class to have more security, administrative controls, and
+        unlimited
+        Power-Ups.<?oxy_insert_end?><?oxy_delete author="dlittl36" timestamp="20191118T162722-0500" content=" steps on how to create a business team"?></shortdesc>
+    <taskbody>
+        <?oxy_insert_start author="dlittl36" timestamp="20191118T162850-0500"?>
+        <context id="context_ebk_315_tjb">
+            <note>Creating a business team required Trello Business Class, a premium version of
+                Trello. This feature is not available for users of the free version of
+                Trello.</note>
+            <p>To create a board, perform the following actions:</p>
+        </context>
+        <?oxy_insert_end?>
+        <steps id="steps_qvq_mx5_rjb">
+            <?oxy_delete author="dlittl36" timestamp="20191118T162808-0500" content="&lt;step&gt;&lt;cmd&gt;Locate the plus sign in the top right corner of the webpage, click on it and three options will appear.&lt;/cmd&gt;&lt;/step&gt;"?>
+            <?oxy_insert_start author="dlittl36" timestamp="20191118T162808-0500"?>
+            <step>
+                <cmd>In the top right corner, click
+                        <?oxy_attributes href="&lt;change type=&quot;modified&quot; oldValue=&quot;images/plus-icon.PNG&quot; author=&quot;briannamcbride&quot; timestamp=&quot;20191207T155949-0500&quot; /&gt;"?><image
+                        href="../images/plus-icon.PNG" id="image_z4j_vvt_tjb"/></cmd>
+            </step>
+            <?oxy_insert_end?>
+            <?oxy_delete author="dlittl36" timestamp="20191118T162912-0500" content="&lt;step&gt;&lt;cmd&gt;Click on the create business team option and another overlayed window will appear. You will now choose the team&apos;s name, a descripition for the team, then you can click continue.&lt;/cmd&gt;&lt;/step&gt;"?>
+            <?oxy_insert_start author="dlittl36" timestamp="20191118T162912-0500"?>
+            <step>
+                <cmd>In the <wintitle>Create</wintitle> window, click
+                        <?oxy_attributes href="&lt;change type=&quot;modified&quot; oldValue=&quot;images/create-business-team.PNG&quot; author=&quot;briannamcbride&quot; timestamp=&quot;20191207T155958-0500&quot; /&gt;"?><image
+                        href="../images/create-business-team.PNG" id="image_ezb_m15_tjb"/>.</cmd>
+            </step>
+            <step>
+                <cmd>In the <wintitle>Let's Build a Team</wintitle> window, in the
+                        <?oxy_attributes href="&lt;change type=&quot;modified&quot; oldValue=&quot;images/team-name.PNG&quot; author=&quot;briannamcbride&quot; timestamp=&quot;20191207T160006-0500&quot; /&gt;"?><image
+                        href="../images/team-name.PNG" id="image_cyd_r15_tjb"/> field, enter a name
+                    for your team.</cmd>
+            </step>
+            <step>
+                <cmd>In the
+                        <?oxy_attributes href="&lt;change type=&quot;modified&quot; oldValue=&quot;images/team-description.PNG&quot; author=&quot;briannamcbride&quot; timestamp=&quot;20191207T160013-0500&quot; /&gt;"?><image
+                        href="../images/team-description.PNG" id="image_nlk_x15_tjb"/> field, enter
+                    a description for your team.</cmd>
+            </step>
+            <step>
+                <cmd>Click the
+                        <?oxy_attributes href="&lt;change type=&quot;modified&quot; oldValue=&quot;images/continue-button.PNG&quot; author=&quot;briannamcbride&quot; timestamp=&quot;20191207T160026-0500&quot; /&gt;"?><image
+                        href="../images/continue-button.PNG" id="image_yqq_bb5_tjb"/> button.</cmd>
+            </step>
+            <step>
+                <cmd>In the <wintitle>Invite Your Team</wintitle> window, in the
+                        <?oxy_attributes href="&lt;change type=&quot;modified&quot; oldValue=&quot;images/team-members.PNG&quot; author=&quot;briannamcbride&quot; timestamp=&quot;20191207T160034-0500&quot; /&gt;"?><image
+                        href="../images/team-members.PNG" id="image_lfb_kb5_tjb"/> field, enter your
+                    teammates' emails.</cmd>
+            </step>
+            <step>
+                <cmd>In the
+                        <?oxy_attributes href="&lt;change type=&quot;modified&quot; oldValue=&quot;images/bussiness-team-personal-message-invite.PNG&quot; author=&quot;briannamcbride&quot; timestamp=&quot;20191207T160116-0500&quot; /&gt;"?><image
+                        href="../images/bussiness-team-personal-message-invite.PNG"
+                        id="image_iqg_wb5_tjb"/> field, edit the existing message invitation message
+                    or type your own message.</cmd>
+            </step>
+            <step>
+                <cmd>When you're done setting up your board, click the
+                        <?oxy_attributes href="&lt;change type=&quot;modified&quot; oldValue=&quot;images/invite-to-team.PNG&quot; author=&quot;briannamcbride&quot; timestamp=&quot;20191207T160125-0500&quot; /&gt;"?><image
+                        href="../images/invite-to-team.PNG" id="image_p45_bc5_tjb"/> button to
+                    invite people to your team.</cmd>
+            </step>
+            <?oxy_insert_end?>
+            <?oxy_delete author="dlittl36" timestamp="20191118T164258-0500" content="&lt;step&gt;&lt;cmd&gt;Once you click continue you can add people to the team using their email associated with their account, you can add as many emails into the box as you need.&lt;/cmd&gt;&lt;/step&gt;&lt;step&gt;&lt;cmd&gt;Once you have done this you have created a business team.&lt;/cmd&gt;&lt;/step&gt;"?>
+        </steps>
+    </taskbody>
+</task>
+
+<?oxy_options track_changes="on"?>
